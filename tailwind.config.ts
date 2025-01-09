@@ -18,7 +18,13 @@ export default {
         'night': "url(../src/stardew-night.png)",
         'wood': "url(../src/wood-panel.png)",
         'wood-footer': "url(../src/wood-panel-3.png)",
-        'border': "(../src/border.png)"
+        'border': "(../src/border.png)",
+        'farm': "url(../src/farm.png)",
+        'night-farm': "url(../src/night-farm.png)",
+        'board': "url(../src/board.png)"
+      },
+      fontFamily: {
+        'pixelify': ["Pixelify Sans", "serif"]
       }
     },
   },
