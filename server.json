@@ -1,0 +1,733 @@
+{
+    "recipes": [
+        {
+            "id": "1",
+            "name": "Algae Soup",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/53/Algae_Soup.png",
+            "description": "It's a little slimy.",
+            "energy": 75, "health": 33,
+            "price": 100,
+            "ingredients": [ "Green Algae (4)" ]
+        },
+        {
+            "id": "2",
+            "name": "Artichoke Dip",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/77/Artichoke_Dip.png",
+            "description": "It's cool and refreshing.",
+            "energy": 100, "health": 45,
+            "price": 210,
+            "ingredients": [ "Artichoke (1)", "Milk (1)" ]
+        },
+        {
+            "id": "3",
+            "name": "Autumn's Bounty",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Autumn%27s_Bounty.png",
+            "description": "A taste of the season.",
+            "energy": 220, "health": 99,
+            "price": 350,
+            "ingredients": [ "Yam (1)", "Pumpkin (1)" ]
+        },
+        {
+            "id": "4",
+            "name": "Baked Fish",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/94/Baked_Fish.png",
+            "description": "Baked fish on a bed of herbs.",
+            "energy": 75, "health": 33,
+            "price": 100,
+            "ingredients": [ "Sunfish (1)", "Bream (1)", "Wheat Flour (1)" ]
+        },
+        {
+            "id": "5",
+            "name": "Banana Pudding",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/4/40/Banana_Pudding.png",
+            "description": "A creamy dessert with a wonderful tropical flavor.",
+            "energy": 125, "health": 56,
+            "price": 260,
+            "ingredients": [ "Banana (1)", "Milk (1) (Any)", "Sugar (1)" ]
+        },
+        {
+            "id": "6",
+            "name": "Bean Hotpot",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/2/24/Bean_Hotpot.png",
+            "description": "It sure is healthy.",
+            "energy": 125, "health": 56,
+            "price": 100,
+            "ingredients": [ "Green Bean (2)" ]
+        },
+        {
+            "id": "7",
+            "name": "Blackberry Cobbler",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/70/Blackberry_Cobbler.png",
+            "description": "Thre's nothing quite like it.",
+            "energy": 175, "health": 78,
+            "price": 260,
+            "ingredients": [ "Blackberry (2)", "Sugar (1)", "Wheat Flour (1)" ]
+        },
+        {
+            "id": "8",
+            "name": "Blueberry Tart",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/9b/Blueberry_Tart.png",
+            "description": "It's subtle and refreshing.",
+            "energy": 125, "health": 56,
+            "price": 150,
+            "ingredients": [ "Blueberry (1)", "Wheat Flour (1)", "Sugar (1)", "Egg (1)" ]
+        },
+        {
+            "id": "9",
+            "name": "Bread",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Bread.png",
+            "description": "A crusty baguette.",
+            "energy": 50, "health": 22,
+            "price": 60,
+            "ingredients": [ "Wheat Flour (1)" ]
+        },
+        {
+            "id": "10",
+            "name": "Bruschetta",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/c/ca/Bruschetta.png",
+            "description": "Roasted tomatoes on a crisp white bread.",
+            "energy": 113, "health": 50,
+            "price": 210,
+            "ingredients": [ "Bread (1)", "Oil (1)", "Tomato (1)" ]
+        },
+        {
+            "id": "11",
+            "name": "Carp Surprise",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/c/cc/Carp_Surprise.png",
+            "description": "It's bland and oily.",
+            "energy": 90, "health": 40,
+            "price": 150,
+            "ingredients": [ "Carp (4)" ]
+        },
+        {
+            "id": "12",
+            "name": "Cheese Cauliflower",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Cheese_Cauliflower.png",
+            "description": "It smells great!",
+            "energy": 138, "health": 62,
+            "price": 300,
+            "ingredients": [ "Cauliflower (1)", "Cheese (1)" ]
+        },
+        {
+            "id": "13",
+            "name": "Chocolate Cake",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png",
+            "description": "Rish and moist with a thick fudge icing.",
+            "energy": 150, "health": 67,
+            "price": 200,
+            "ingredients": [ "Wheat Flour (1)", "Sugar (1)", "Egg (1)" ]
+        },
+        {
+            "id": "14",
+            "name": "Chowder",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/95/Chowder.png",
+            "description": "A perfect way to warm yourself after a cold night at sea.",
+            "energy": 225, "health": 101,
+            "price": 135,
+            "ingredients": [ "Clam (1)", "Milk (1)" ]
+        },
+        {
+            "id": "15",
+            "name": "Coleslaw",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Coleslaw.png",
+            "description": "It's light, fresh and very healthy.",
+            "energy": 213, "health": 95,
+            "price": 345,
+            "ingredients": [ "Red Cabbage (1)", "Vinegar (1)", "Mayonnaise (1)" ]
+        },
+        {
+            "id": "16",
+            "name": "Complete Breakfest",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Complete_Breakfast.png",
+            "description": "You'll feel ready to take on the world!",
+            "energy": 200, "health": 90,
+            "price": 350,
+            "ingredients": [ "Fried Egg (1)", "Milk (1)", "Hasbrowns (1)", "Pancakes (1)" ]
+        },
+        {
+            "id": "17",
+            "name": "Cookie",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/70/Cookie.png",
+            "description": "Very chewy.",
+            "energy": 90, "health": 40,
+            "price": 140,
+            "ingredients": [ "Wheat Flour (1)", "Sugar (1)", "Egg (1)" ]
+        },
+        {
+            "id": "18",
+            "name": "Crab Cakes",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/70/Crab_Cakes.png",
+            "description": "Crab, bread crumbs, and egg formed into patties then fried to a golden brown.",
+            "energy": 225, "health": 101,
+            "price": 275,
+            "ingredients": [ "Crab (1)", "Wheat Flour (1)", "Egg (1)", "Oil (1)" ]
+        },
+        {
+            "id": "19",
+            "name": "Cranberry Candy",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Cranberry_Candy.png",
+            "description": "It's sweet enough to mask the bitter fruit.",
+            "energy": 125, "health": 56,
+            "price": 175,
+            "ingredients": [ "Cranberries (1)", "Apple (1)", "Sugar (1)" ]
+        },
+        {
+            "id": "20",
+            "name": "Cranberry Sauce",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Cranberry_Sauce.png",
+            "description": "A festive treat.",
+            "energy": 125, "health": 56,
+            "price": 120,
+            "ingredients": [ "Cranberries (1)", "Sugar (1)" ]
+        },
+        {
+            "id": "21",
+            "name": "Crispy Bass",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/53/Crispy_Bass.png",
+            "description": "Wow, the breading is perfect.",
+            "energy": 90, "health": 40,
+            "price": 150,
+            "ingredients": [ "Largemouth Bass (1)", "Wheat Flour (1)", "Oil (1)" ]
+        },
+        {
+            "id": "22",
+            "name": "Dish O' The Sea",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/ff/Dish_O%27_The_Sea.png",
+            "description": "This'll keep you warm in the cold sea air.",
+            "energy": 150, "health": 67,
+            "price": 220,
+            "ingredients": [ "Sardine (2)", "Hashbrowns (1)" ]
+        },
+        {
+            "id": "23",
+            "name": "Eggplant Parmesan",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/73/Eggplant_Parmesan.png",
+            "description": "Tangy, cheesy, and wonderful.",
+            "energy": 175, "health": 78,
+            "price": 200,
+            "ingredients": [ "Eggplant (1)", "Tomato (1)" ]
+        },
+        {
+            "id": "24",
+            "name": "Escargot",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/78/Escargot.png",
+            "description": "Butter-soaked snails cooked to perfection.",
+            "energy": 225, "health": 101,
+            "price": 125,
+            "ingredients": [ "Snail (1)", "Garlic (1)" ]
+        },
+        {
+            "id": "25",
+            "name": "Farmer's Lunch",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/79/Farmer%27s_Lunch.png",
+            "description": "This'll keep you going.",
+            "energy": 200, "health": 90,
+            "price": 150,
+            "ingredients": [ "Omelet (1)", "Parsnip (1)" ]
+        },
+        {
+            "id": "26",
+            "name": "Fiddlehead Risotto",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/2/2d/Fiddlehead_Risotto.png",
+            "description": "A creamy rice dish served with sauteed fern heads. It's little bland.",
+            "energy": 225, "health": 101,
+            "price": 350,
+            "ingredients": [ "Oil (1)", "Fiddlehead Fern (1)", "Garlic (1)" ]
+        },
+        {
+            "id": "27",
+            "name": "Fish Stew",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Fish_Stew.png",
+            "description": "It smells a lot like the sea. Tastes better, though.",
+            "energy": 225, "health": 101,
+            "price": 175,
+            "ingredients": [ "Crayfish (1)", "Mussel (1)", "Periwinkle (1)", "Tomato (1)" ]
+        },
+        {
+            "id": "28",
+            "name": "Fish Taco",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png",
+            "description": "It smells delicious.",
+            "energy": 165, "health": 74,
+            "price": 500,
+            "ingredients": [ "Tuna (1)", "Tortilla (1)", "Red Cabbage (1)", "Mayonnaise (1)" ]
+        },
+        {
+            "id": "29",
+            "name": "Fried Calamari",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/2/25/Fried_Calamari.png",
+            "description": "It's so chewy.",
+            "energy": 80, "health": 36,
+            "price": 150,
+            "ingredients": [ "Squid (1)", "Wheat Flour (1)", "Oil (1)" ]
+        },
+        {
+            "id": "30",
+            "name": "Fried Eel",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/84/Fried_Eel.png",
+            "description": "Greasy but flavorful.",
+            "energy": 75, "health": 33,
+            "price": 120,
+            "ingredients": [ "Eel (1)", "Oil (1)" ]
+        },
+        {
+            "id": "31",
+            "name": "Fried Egg",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/18/Fried_Egg.png",
+            "description": "Sunny-side up.",
+            "energy": 50, "health": 22,
+            "price": 35,
+            "ingredients": [ "Egg (1)" ]
+        },
+        {
+            "id": "32",
+            "name": "Fried Mushroom",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/4/4a/Fried_Mushroom.png",
+            "description": "Earthy and aromatic.",
+            "energy": 135, "health": 60,
+            "price": 200,
+            "ingredients": [ "Common Mushroom (1)", "Morel (1)", "Oil (1)" ]
+        },
+        {
+            "id": "33",
+            "name": "Fruit Salad",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/9e/Fruit_Salad.png",
+            "description": "A delicious combination of summer fruits.",
+            "energy": 263, "health": 118,
+            "price": 450,
+            "ingredients": [ "Blueberry (1)", "Melon (1)", "Apricot (1)" ]
+        },
+        {
+            "id": "34",
+            "name": "Ginger Ale",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Ginger_Ale.png",
+            "description": "A zesty soda known for its soothing effect on the stomach.",
+            "energy": 63, "health": 28,
+            "price": 200,
+            "ingredients": [ "Ginger (3)", "Sugar (1)" ]
+        },
+        {
+            "id": "35",
+            "name": "Glazed Yams",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/30/Glazed_Yams.png",
+            "description": "Sweet an satisfying... The sugar gives it a hint of caramel.",
+            "energy": 200, "health": 90,
+            "price": 200,
+            "ingredients": [ "Yam (1)", "Sugar (1)" ]
+        },
+        {
+            "id": "36",
+            "name": "Hasbrowns",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Hashbrowns.png",
+            "description": "Crispy and golden-brown!",
+            "energy": 90, "health": 40,
+            "price": 120,
+            "ingredients": [ "Potato (1)", "Oil (1)" ]
+        },
+        {
+            "id": "37",
+            "name": "Ice Cream",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png",
+            "description": "It's hard to find someone who doesn't like this.",
+            "energy": 100, "health": 45,
+            "price": 120,
+            "ingredients": [ "Milk (1)", "Sugar (1)" ]
+        },
+        {
+            "id": "38",
+            "name": "Lobster Bisque",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/0/0a/Lobster_Bisque.png",
+            "description": "This delicate soup is a secret family recipe of Willy's.",
+            "energy": 225, "health": 101,
+            "price": 205,
+            "ingredients": [ "Lobster (1)", "Milk (1)" ]
+        },
+        {
+            "id": "39",
+            "name": "Lucky Lunch",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/5d/Lucky_Lunch.png",
+            "description": "A special little meal.",
+            "energy": 100, "health": 45,
+            "price": 250,
+            "ingredients": [ "Sea Cucumber (1)", "Tortilla (1)", "Blue Jazz (1)" ]
+        },
+        {
+            "id": "40",
+            "name": "Maki Roll",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Maki_Roll.png",
+            "description": "Fish and rice wrapped in seaweed.",
+            "energy": 100, "health": 45,
+            "price": 220,
+            "ingredients": [ "Any Fish (1)", "Seaweed (1)", "Rice (1)" ]
+        },
+        {
+            "id": "41",
+            "name": "Mango Sticky Rice",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Mango_Sticky_Rice.png",
+            "description": "Sweet mango and coconut transforms this rice into something very special.",
+            "energy": 113, "health": 50,
+            "price": 250,
+            "ingredients": [ "Mango (1)", "Coconut (1)", "Rice (1)" ]
+        },
+        {
+            "id": "42",
+            "name": "Maple Bar",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/18/Maple_Bar.png",
+            "description": "It's a sweet doughnut topped with a rich maple gaze.",
+            "energy": 225, "health": 101,
+            "price": 300,
+            "ingredients": [ "Maple Syrup (1)", "Sugar (1)", "Wheat Flour (1)" ]
+        },
+        {
+            "id": "43",
+            "name": "Miner's Treat",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Miner%27s_Treat.png",
+            "description": "This should keep your energy up.",
+            "energy": 125, "health": 56,
+            "price": 200,
+            "ingredients": [ "Cave Carrot (2)", "Sugar (1)", "Milk (1)" ]
+        },
+        {
+            "id": "44",
+            "name": "Moss Soup",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/df/Moss_Soup.png",
+            "description": "It's thick and slimy, but edible.",
+            "energy": 70, "health": 31,
+            "price": 80,
+            "ingredients": [ "Moss (20)" ]
+        },
+        {
+            "id": "45",
+            "name": "Omelet",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Omelet.png",
+            "description": "It's super fluffy.",
+            "energy": 100, "health": 45,
+            "price": 125,
+            "ingredients": [ "Egg (1)", "Milk (1)" ]
+        },
+        {
+            "id": "46",
+            "name": "Pale Broth",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Pale_Broth.png",
+            "description": "A delicate broth with a hint of sulfur.",
+            "energy": 125, "health": 56,
+            "price": 150,
+            "ingredients": [ "White Algae (2)" ]
+        },
+        {
+            "id": "47",
+            "name": "Pancakes",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Pancakes.png",
+            "description": "A double stack of fluffy, soft pancakes.",
+            "energy": 90, "health": 40,
+            "price": 80,
+            "ingredients": [ "Wheat Flour (1)", "Egg (1)" ]
+        },
+        {
+            "id": "48",
+            "name": "Parsnip Soup",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/76/Parsnip_Soup.png",
+            "description": "It's fresh and hearty.",
+            "energy": 85, "health": 38,
+            "price": 120,
+            "ingredients": [ "Parsnip (1)", "Milk (1)", "Vinegar (1)" ]
+        },
+        {
+            "id": "49",
+            "name": "Pepper Poppers",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/0/08/Pepper_Poppers.png",
+            "description": "Spicy breaded peppers filled with cheese.",
+            "energy": 130, "health": 58,
+            "price": 200,
+            "ingredients": [ "Hot Pepper (1)", "Cheese (1)" ]
+        },
+        {
+            "id": "50",
+            "name": "Pink Cake",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png",
+            "description": "There's little heart candies on top.",
+            "energy": 250, "health": 112,
+            "price": 480,
+            "ingredients": [ "Melon (1)", "Wheat Flour (1)", "Sugar (1)", "Egg (1)" ]
+        },
+        {
+            "id": "51",
+            "name": "Pizza",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png",
+            "description": "It's popular for all the right reasons.",
+            "energy": 150, "health": 67,
+            "price": 300,
+            "ingredients": [ "Wheat Flour (1)", "Tomato (1)", "Cheese (1)" ]
+        },
+        {
+            "id": "52",
+            "name": "Plum Pudding",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/a/a0/Plum_Pudding.png",
+            "description": "A traditional holiday treat.",
+            "energy": 175, "health": 78,
+            "price": 260,
+            "ingredients": [ "Wild Plum (2)", "Wheat Flour (1)", "Sugar (1)" ]
+        },
+        {
+            "id": "53",
+            "name": "Poi",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Poi.png",
+            "description": "A traditional food with a delicate, sweet flavor when eaten fresh.",
+            "energy": 75, "health": 33,
+            "price": 400,
+            "ingredients": [ "Taro Root (4)" ]
+        },
+        {
+            "id": "54",
+            "name": "Poppyseed Muffin",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Poppyseed_Muffin.png",
+            "description": "It has a soothing effect.",
+            "energy": 150, "health": 67,
+            "price": 250,
+            "ingredients": [ "Poppy (1)", "Wheat Flour (1)", "Sugar (1)" ]
+        },
+        {
+            "id": "55",
+            "name": "Pumpkin Pie",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Pumpkin_Pie.png",
+            "description": "Silky pumpkin cream in a flaky crust.",
+            "energy": 225, "health": 101,
+            "price": 385,
+            "ingredients": [ "Pumpkin (1)", "Wheat Flour (1)", "Milk (1)", "Sugar (1)" ]
+        },
+        {
+            "id": "56",
+            "name": "Pumpkin Soup",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Pumpkin_Soup.png",
+            "description": "A seasonal favorite.",
+            "energy": 200, "health": 90,
+            "price": 300,
+            "ingredients": [ "Pumpkin (1)", "Milk (1)" ]
+        },
+        {
+            "id": "57",
+            "name": "Radish Salad",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/b/b9/Radish_Salad.png",
+            "description": "The radishes are so crisp!",
+            "energy": 200, "health": 90,
+            "price": 300,
+            "ingredients": [ "Oil (1)", "Vinegar (1)", "Radish (1)" ]
+        },
+        {
+            "id": "58",
+            "name": "Red Plate",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/4/45/Red_Plate.png",
+            "description": "Full of antioxidants.",
+            "energy": 240, "health": 108,
+            "price": 400,
+            "ingredients": [ "Red Cabbage (1)", "Radish (1)" ]
+        },
+        {
+            "id": "59",
+            "name": "Rhubarb Pie",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/2/21/Rhubarb_Pie.png",
+            "description": "Mmm, tangy and sweet!",
+            "energy": 215, "health": 96,
+            "price": 400,
+            "ingredients": [ "Rhubarb (1)", "Wheat Flour (1)", "Sugar (1)" ]
+        },
+        {
+            "id": "60",
+            "name": "Rice Pudding",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/e/ec/Rice_Pudding.png",
+            "description": "It's creamy, sweet, and fun to eat.",
+            "energy": 115, "health": 51,
+            "price": 260,
+            "ingredients": [ "Milk (1)", "Sugar (1)", "Rice (1)" ]
+        },
+        {
+            "id": "61",
+            "name": "Roasted Hazelnuts",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/18/Roasted_Hazelnuts.png",
+            "description": "The roasting process creates a rich forest flavor.",
+            "energy": 175, "health": 78,
+            "price": 270,
+            "ingredients": [ "Hazelnut (3)" ]
+        },
+        {
+            "id": "62",
+            "name": "Roots Platter",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/e/e0/Roots_Platter.png",
+            "description": "This'll get you digging for more.",
+            "energy": 125, "health": 56,
+            "price": 100,
+            "ingredients": [ "Cave Carrot (1)", "Winter Root (1)" ]
+        },
+        {
+            "id": "63",
+            "name": "Salad",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png",
+            "description": "A healthy garden salad.",
+            "energy": 113, "health": 50,
+            "price": 110,
+            "ingredients": [ "Leek (1)", "Dandelion (1)", "Vinegar (1)" ]
+        },
+        {
+            "id": "64",
+            "name": "Salmon Dinner",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Salmon_Dinner.png",
+            "description": "The lemon spritz makes it special.",
+            "energy": 125, "health": 56,
+            "price": 300,
+            "ingredients": [ "Salmon (1)", "Amaranth (1)", "Kale (1)" ]
+        },
+        {
+            "id": "65",
+            "name": "Sashimi",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png",
+            "description": "Raw fish sliced into thin pieces.",
+            "energy": 75, "health": 33,
+            "price": 75,
+            "ingredients": [ "Any Fish (1)" ]
+        },
+        {
+            "id": "66",
+            "name": "Seafoam Pudding",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/33/Seafoam_Pudding.png",
+            "description": "This briny pudding will really get you into the maritime mindset!",
+            "energy": 175, "health": 78,
+            "price": 300,
+            "ingredients": [ "Flounder (1)", "Midnight Carp (1)", "Squid Ink (1)" ]
+        },
+        {
+            "id": "67",
+            "name": "Shrimp Cocktail",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Shrimp_Cocktail.png",
+            "description": "A sumptuous appetizer made with freshly-caught shrimp.",
+            "energy": 225, "health": 101,
+            "price": 160,
+            "ingredients": [ "Tomato (1)", "Shrimp (1)", "Wild Horseradish (1)" ]
+        },
+        {
+            "id": "68",
+            "name": "Spaghetti",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png",
+            "description": "An old favorite.",
+            "energy": 75, "health": 3,
+            "price": 120,
+            "ingredients": [ "Wheat Flour (1)", "Tomato (1)" ]
+        },
+        {
+            "id": "69",
+            "name": "Spicy Eel",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Spicy_Eel.png",
+            "description": "It's really spicy! Be careful.",
+            "energy": 115, "health": 51,
+            "price": 175,
+            "ingredients": [ "Eel (1)", "Hot Pepper (1)" ]
+        },
+        {
+            "id": "70",
+            "name": "Squid Ink Ravioli",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/86/Squid_Ink_Ravioli.png",
+            "description": "Temporarily protects from debuffs.",
+            "energy": 125, "health": 56,
+            "price": 150,
+            "ingredients": [ "Squid Ink (1)", "Wheat Flour (1)", "Tomato (1)" ]
+        },
+        {
+            "id": "71",
+            "name": "Stir Fry",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Stir_Fry.png",
+            "description": "Julienned vegetables on a bed of rice.",
+            "energy": 200, "health": 90,
+            "price": 335,
+            "ingredients": [ "Cave Carrot (1)", "Common Mushroom (1)", "Kale (1)", "Oil (1)" ]
+        },
+        {
+            "id": "72",
+            "name": "Strange Bun",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/5e/Strange_Bun.png",
+            "description": "What's inside?",
+            "energy": 100, "health": 45,
+            "price": 225,
+            "ingredients": [ "Wheat Flour (1)", "Periwinkle (1)", "Void Mayonnaise" ]
+        },
+        {
+            "id": "73",
+            "name": "Stuffing",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/9a/Stuffing.png",
+            "description": "Ahh... the smell of warm bread and sage.",
+            "energy": 170, "health": 76,
+            "price": 165,
+            "ingredients": [ "Bread (1)", "Cranberries (1)", "Hazelnut (1)" ]
+        },
+        {
+            "id": "74",
+            "name": "Super Meal",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Super_Meal.png",
+            "description": "It's a really energizing meal.",
+            "energy": 160, "health": 72,
+            "price": 220,
+            "ingredients": [ "Bok Choy (1)", "Cranberries (1)", "Artichoke (1)" ]
+        },
+        {
+            "id": "75",
+            "name": "Survival Burger",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Survival_Burger.png",
+            "description": "A convenient snack for the explorer.",
+            "energy": 125, "health": 56,
+            "price": 180,
+            "ingredients": [ "Bread (1)", "Cave Carrot (1)", "Eggplant (1)" ]
+        },
+        {
+            "id": "76",
+            "name": "Tom Kha Soup",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/3b/Tom_Kha_Soup.png",
+            "description": "These flavors are incredible!",
+            "energy": 175, "health": 78,
+            "price": 250,
+            "ingredients": [ "Coconut (1)", "Shrimp (1)", "Common Mushroom (1)" ]
+        },
+        {
+            "id": "77",
+            "name": "Tortilla",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/d7/Tortilla.png",
+            "description": "Can be used as a vessel for food or eaten by itself.",
+            "energy": 50, "health": 22,
+            "price": 50,
+            "ingredients": [ "Corn (1)" ]
+        },
+        {
+            "id": "78",
+            "name": "Triple Shot Espresso",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/36/Triple_Shot_Espresso.png",
+            "description": "It's more potent than regular coffee!",
+            "energy": 8, "health": 3,
+            "price": 450,
+            "ingredients": [ "Coffee (3)" ]
+        },
+        {
+            "id": "79",
+            "name": "Tropical Curry",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Tropical_Curry.png",
+            "description": "An exotic, fragrant curry served in a pineapple bowl.",
+            "energy": 150, "health": 67,
+            "price": 500,
+            "ingredients": [ "Coconut (1)", "Pineapple (1)", "Hot Pepper (1)" ]
+        },
+        {
+            "id": "80",
+            "name": "Trout Soup",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/4/48/Trout_Soup.png",
+            "description": "Pretty salty.",
+            "energy": 100, "health": 45,
+            "price": 100,
+            "ingredients": [ "Rainbow Trout (1)", "Green Algae (1)" ]
+        },
+        {
+            "id": "81",
+            "name": "Vegetable Medley",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/0/0a/Vegetable_Medley.png",
+            "description": "This is very nutritious.",
+            "energy": 165, "health": 74,
+            "price": 120,
+            "ingredients": [ "Tomato (1)", "Beet (1)" ]
+        }
+    ]
+}
