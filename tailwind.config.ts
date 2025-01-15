@@ -21,7 +21,9 @@ export default {
         'border': "(../src/border.png)",
         'farm': "url(../src/farm.png)",
         'night-farm': "url(../src/night-farm.png)",
-        'board': "url(../src/board.png)"
+        'board': "url(../src/board.png)",
+        'book': "url(../src/book.png)",
+        'picnic': "url(../src/picnic-pattern.jpg)"
       },
       fontFamily: {
         'pixelify': ["Pixelify Sans", "serif"]

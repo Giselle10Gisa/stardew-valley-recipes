@@ -20,7 +20,9 @@ export default function Dashboard() {
     } = useRecipes();
     return (
         <main className="h-screen flex flex-col">
-            <Navbar />
+            <div className="z-[999]">
+                <Navbar />
+            </div>
             <div className="flex-grow relative bg-day dark:bg-night bg-cover bg-no-repeat bg-fixed">
                 <div className="absolute inset-0 overflow-x-hidden">
                     <div className="pl-20 py-8">
@@ -68,7 +70,9 @@ export default function Dashboard() {
                     </div>
                 </div>
             </div>
-            <Footer />
+            <div className="z-[999]">
+                <Footer />
+            </div>
         </main>
     )
 }
