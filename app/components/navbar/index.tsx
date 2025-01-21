@@ -26,7 +26,7 @@ export default function Navbar () {
                     src= "/assets/icons/Strawberry.png"
                     height={35}
                     width={35}
-                    className="hover:animate-spin"
+                    className="hover:animate-pendulum"
                 />
             </Link>
             <div onClick={() => handleClick()} className={`w-16 h-8 rounded-full border-[#853605] border-[3px] bg-[#FFF3CC] flex items-center px-1 cursor-pointer shadow-[inset_0_2px_4px_rgba(0,0,0,0.1)] transition duration-150 ${theme === 'dark' ? 'justify-end' : 'justify-start'}`}>

@@ -6,6 +6,7 @@ const nextConfig: NextConfig = {
   images: {
     domains: [
       'stardewvalleywiki.com',
+      'stardewvalley.net',
       'geeksandgouda.com',
       'pixelatedprovisions.com',
       'level1chef.com',
