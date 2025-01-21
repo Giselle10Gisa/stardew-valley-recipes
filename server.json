@@ -7,7 +7,10 @@
             "description": "It's a little slimy.",
             "energy": 75, "health": 33,
             "price": 100,
-            "ingredients": [ "Green Algae (4)" ]
+            "ingredients": [ "Green Algae (4)" ],
+            "realRecipeImage": "https://geeksandgouda.com/wp-content/uploads/2023/02/algae-soup-close-up-i.jpg?w=1024",
+            "realRecipeIngredients": ["1 tbsp white miso", "1 1/2 tsp matcha powder", "1 cup kombu dashi", "1 1/2 tsp dried wakame seaweed", "Greend end of 1 scallion, sliced, for garnish"],
+            "realRecipeLink": "https://geeksandgouda.com/2023/02/17/algae-soup-and-pale-broth-from-stardew-valley/"
         },
         {
             "id": "2",
@@ -16,7 +19,10 @@
             "description": "It's cool and refreshing.",
             "energy": 100, "health": 45,
             "price": 210,
-            "ingredients": [ "Artichoke (1)", "Milk (1)" ]
+            "ingredients": [ "Artichoke (1)", "Milk (1)" ],
+            "realRecipeImage": "https://pixelatedprovisions.com/wp-content/uploads/2017/10/artichoke_01.jpg",
+            "realRecipeIngredients": [ "35g scallions, white and light green section only, chopped", "10g garlic, minced", "370g artichoke hearts, roughly chopped", "43g butter", "430g cream cheese, room temperature", "40g parmesan cheese, shredded", "90g fontina cheese, shredded" ],
+            "realRecipeLink": "https://pixelatedprovisions.com/2017/10/03/stardew-valley-artichoke-dip/"
         },
         {
             "id": "3",
@@ -25,7 +31,10 @@
             "description": "A taste of the season.",
             "energy": 220, "health": 99,
             "price": 350,
-            "ingredients": [ "Yam (1)", "Pumpkin (1)" ]
+            "ingredients": [ "Yam (1)", "Pumpkin (1)" ],
+            "realRecipeImage": "https://www.level1chef.com/wp-content/uploads/2017/10/stardew-valley-autumns-bounty-closeup.jpg",
+            "realRecipeIngredients": [ "Pumpkin - 1 small (around 2 lbs)", "Sweet Potato(Yam) - 1 medium (about 1 lb.)", "Vegetable Oil - 1 Tbsp", "Honey - 1 Tbsp", "Thyme - 7 sprigs", "Salt - 1 1/2 tsp", "Pepper - to taste", "Bacon - 3 strips", "Red Onion - 1 small", "..." ],
+            "realRecipeLink": "https://www.level1chef.com/stardew-valley-autumns-bounty/"
         },
         {
             "id": "4",
@@ -34,7 +43,10 @@
             "description": "Baked fish on a bed of herbs.",
             "energy": 75, "health": 33,
             "price": 100,
-            "ingredients": [ "Sunfish (1)", "Bream (1)", "Wheat Flour (1)" ]
+            "ingredients": [ "Sunfish (1)", "Bream (1)", "Wheat Flour (1)" ],
+            "realRecipeImage": "/assets/images/baked-fish.png",
+            "realRecipeIngredients": [ "8oz boneless fish filled, such as snapper or cod", "1/2 tsp kosher salt", "1/4 tsp freshly ground black pepper", "1 tbsp freshly squeezed lemon juice", "1 tbsp good olive oil", "1 large sprig fresh thyme", "2 ceregnola or other large green olives with pits", "Extra-large egg" ],
+            "realRecipeLink": "https://youtu.be/XY2Jg1box60?si=LCzrgFhfqqWTTaSd"
         },
         {
             "id": "5",
@@ -43,7 +55,10 @@
             "description": "A creamy dessert with a wonderful tropical flavor.",
             "energy": 125, "health": 56,
             "price": 260,
-            "ingredients": [ "Banana (1)", "Milk (1) (Any)", "Sugar (1)" ]
+            "ingredients": [ "Banana (1)", "Milk (1) (Any)", "Sugar (1)" ],
+            "realRecipeImage": "https://www.allrecipes.com/thmb/yjsIQEes7kZDZt7HXeTkv5qM0Eo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/771986-daafa15bee484e5896705c6bb9ed3a6b.jpg",
+            "realRecipeIngredients": [ "2 cups cold milk", "1 (5 ounce) packing instant vanilla pudding mix", "1 (14 ounce) can sweetened condensed milk", "1 tbsp vanilla extract", "1 (12 ounce) container frozen whipped topping, thawed", "1 (16 ounce) package vanilla wafers", "14 small bananas, sliced or to taste" ],
+            "realRecipeLink": "https://www.allrecipes.com/recipe/22749/the-best-banana-pudding/"
         },
         {
             "id": "6",
@@ -52,7 +67,10 @@
             "description": "It sure is healthy.",
             "energy": 125, "health": 56,
             "price": 100,
-            "ingredients": [ "Green Bean (2)" ]
+            "ingredients": [ "Green Bean (2)" ],
+            "realRecipeImage": "https://geeksandgouda.com/wp-content/uploads/2018/08/20180816_214911-e1535338511449.jpg?w=1024&h=732",
+            "realRecipeIngredients": [ "1 inch piece of ginger, grated", "4 cloves garlic, grated", "½-1 tsp olive oil", "½ lb brown mushrooms, such as shiitake or baby bella, roughly chopped", "¼ cup reduced sodium soy sauce", "1 ½ tsp toasted sesame oil", "pinch of chili flakes", "1 lb firm tofu", "½ lb baby cut carrots or whole carrots, sliced", "..." ],
+            "realRecipeLink": "https://geeksandgouda.com/2018/08/29/stardew-valley-bean-hotpot/"
         },
         {
             "id": "7",
@@ -61,7 +79,10 @@
             "description": "Thre's nothing quite like it.",
             "energy": 175, "health": 78,
             "price": 260,
-            "ingredients": [ "Blackberry (2)", "Sugar (1)", "Wheat Flour (1)" ]
+            "ingredients": [ "Blackberry (2)", "Sugar (1)", "Wheat Flour (1)" ],
+            "realRecipeImage": "https://geeksandgouda.com/wp-content/uploads/2019/10/blackberry-cobbler-featured-image.jpg",
+            "realRecipeIngredients": [ "2 pounds blackberries, thawed and drained if frozen (about 6 cups)", "3/4 cup white granulated sugar", "2 tbsp cornstarch", "1 tsp vanilla extract", "1 ½ cups all-purpose flour", "1 ½ tsp baking powder", "¼ tsp kosher salt or to taste", "¼ tsp cinnamon or ground cloves", "3 tbsp white granulated sugar", "..." ],
+            "realRecipeLink": "https://geeksandgouda.com/2019/11/01/stardew-valley-recipe-blackberry-cobbler/"
         },
         {
             "id": "8",
@@ -70,7 +91,10 @@
             "description": "It's subtle and refreshing.",
             "energy": 125, "health": 56,
             "price": 150,
-            "ingredients": [ "Blueberry (1)", "Wheat Flour (1)", "Sugar (1)", "Egg (1)" ]
+            "ingredients": [ "Blueberry (1)", "Wheat Flour (1)", "Sugar (1)", "Egg (1)" ],
+            "realRecipeImage": "https://geeksandgouda.com/wp-content/uploads/2019/10/stardew-valley-blueberry-tart-whole-close-up.jpg",
+            "realRecipeIngredients": [ "1 1/3 cup all purpose flour", "Pinch of salt", "1/2 tsp sugar", "7 tbsp cold unsalted butter, cubed", "1 egg yolk", "2-3 tbsp cold water as necessary", "Zest of 1 lemon (1 tbsp)", "½ tsp almond extract", "4 cups fresh blueberries, divided", "..." ],
+            "realRecipeLink": "https://geeksandgouda.com/2019/10/02/stardew-valley-recipe-blueberry-tart/"
         },
         {
             "id": "9",
@@ -79,7 +103,10 @@
             "description": "A crusty baguette.",
             "energy": 50, "health": 22,
             "price": 60,
-            "ingredients": [ "Wheat Flour (1)" ]
+            "ingredients": [ "Wheat Flour (1)" ],
+            "realRecipeImage": "https://i2.wp.com/cdn.momsdish.com/wp-content/uploads/2012/10/Baguette-08-scaled.jpg?resize=1707%2C1707&strip=info&ssl=1",
+            "realRecipeIngredients": [ "6 cups all-purpose flour (depending on a brand, you may need to add more flour)", "3 cups lukewarm water", "2 tsp yeast", "2 tsp salt" ],
+            "realRecipeLink": "https://momsdish.com/baguette"
         },
         {
             "id": "10",
@@ -88,7 +115,10 @@
             "description": "Roasted tomatoes on a crisp white bread.",
             "energy": 113, "health": 50,
             "price": 210,
-            "ingredients": [ "Bread (1)", "Oil (1)", "Tomato (1)" ]
+            "ingredients": [ "Bread (1)", "Oil (1)", "Tomato (1)" ],
+            "realRecipeImage": "https://pixelatedprovisions.com/wp-content/uploads/2016/12/bruschetta_01.png",
+            "realRecipeIngredients": [ "330g tomato, chopped", "4 cloves of garlic, minced", "5g fresh basil, sliced thinly", "baguette, cut in thick slices", "1 tbsp olive oil", "1 tsp balsamic vinegar", "salt", "pepper", "parmesan" ],
+            "realRecipeLink": "https://pixelatedprovisions.com/2016/12/06/stardew-valley-bruschetta/"
         },
         {
             "id": "11",
@@ -97,7 +127,10 @@
             "description": "It's bland and oily.",
             "energy": 90, "health": 40,
             "price": 150,
-            "ingredients": [ "Carp (4)" ]
+            "ingredients": [ "Carp (4)" ],
+            "realRecipeImage": "/assets/images/carp-surprise.png",
+            "realRecipeIngredients": [ "3 x Fillets of Basa", "2 x Large Potatoes", "5 x Eggs", "25g Unsalted Butter", "Vegetable Oil", "Panko Breadcrumbs", "1 x Fish Stock Cube", "22g Sugar", "10g Salt", "Cornflour/Cornstarch" ],
+            "realRecipeLink": "https://youtu.be/bHcIXcOedm4?si=-Jcht3q1z5c8CCwq"
         },
         {
             "id": "12",
@@ -106,7 +139,10 @@
             "description": "It smells great!",
             "energy": 138, "health": 62,
             "price": 300,
-            "ingredients": [ "Cauliflower (1)", "Cheese (1)" ]
+            "ingredients": [ "Cauliflower (1)", "Cheese (1)" ],
+            "realRecipeImage": "https://i0.wp.com/www.innatthecrossroads.com/wp-content/uploads/2020/01/DSC00801-1.png?resize=768%2C976&ssl=1",
+            "realRecipeIngredients": [ "1 cauliflower, divided into bite-sized pieces", "1 Tbs. olive oil", "1 tsp. salt", "1/2 tsp. pepper", "4 oz. cream cheese", "1/2 cup heavy cream", "1 cup shredded cheddar cheese", "paprika and chives to garnish" ],
+            "realRecipeLink": "https://www.innatthecrossroads.com/stardew-valley-cheese-cauli/"
         },
         {
             "id": "13",
@@ -115,7 +151,10 @@
             "description": "Rish and moist with a thick fudge icing.",
             "energy": 150, "health": 67,
             "price": 200,
-            "ingredients": [ "Wheat Flour (1)", "Sugar (1)", "Egg (1)" ]
+            "ingredients": [ "Wheat Flour (1)", "Sugar (1)", "Egg (1)" ],
+            "realRecipeImage": "https://www.allrecipes.com/thmb/2LOTi2rhCmLU8103RLY1bBZVK44=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ycct-one-bowl-chocolate-cake-photo-by-allrecipes-1-2000-8db6284908b34bcebb5d00946a5b3454.jpg",
+            "realRecipeIngredients": [ "2 cups white sugar", "1 ¾ cups all-purpose flour", "¾ cup unsweetened cocoa powder", "1 ½ tsp baking powder", "1 ½ tsp baking soda", "1 tsp salt", "2 large eggs", "1 cup milk", "½ cup vegetable oil", "2 tsp vanilla extract" ],
+            "realRecipeLink": "https://www.allrecipes.com/recipe/17981/one-bowl-chocolate-cake-iii/"
         },
         {
             "id": "14",
@@ -124,7 +163,10 @@
             "description": "A perfect way to warm yourself after a cold night at sea.",
             "energy": 225, "health": 101,
             "price": 135,
-            "ingredients": [ "Clam (1)", "Milk (1)" ]
+            "ingredients": [ "Clam (1)", "Milk (1)" ],
+            "realRecipeImage": "https://www.simplyrecipes.com/thmb/pIiilufSaPhi_TZSH4Gh7EZD6Lg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__10__fish-chowder-horiz-a-1600-8e2e8883ee96411aab3c5c4f21609f89.jpg",
+            "realRecipeIngredients": [ "1 tbsp extra virgin olive oil", "1 tsp butter", "2 medium yellow onions, chopped (about 2 cups)", "1/2 cup dry white wine, optional", "3 large Yukon Gold potatoes", "2 cups clam juice", "1 bay leaf", "1 tbsp fresh thyme, or 1 tsp dried thyme", "1 1/2 tsp salt", "..." ],
+            "realRecipeLink": "https://www.simplyrecipes.com/recipes/fish_chowder/"
         },
         {
             "id": "15",
@@ -133,7 +175,10 @@
             "description": "It's light, fresh and very healthy.",
             "energy": 213, "health": 95,
             "price": 345,
-            "ingredients": [ "Red Cabbage (1)", "Vinegar (1)", "Mayonnaise (1)" ]
+            "ingredients": [ "Red Cabbage (1)", "Vinegar (1)", "Mayonnaise (1)" ],
+            "realRecipeImage": "https://www.inspiredtaste.net/wp-content/uploads/2015/01/Coleslaw-Recipe-1-1200.jpg",
+            "realRecipeIngredients": [ "1 medium cabbage, about 2 pounds, outer leaves removed", "3 medium carrots, peeled and shredded", "1/2 cup loosely packed fresh parsley leaves, coarsely chopped", "1 cup (225g) mayonnaise", "2 tbsp apple cider vinegar", "2 tbsp Dijon mustard or coarse ground mustard", "1 tsp celery seeds", "1/4 tsp fine sea salt", "1/4 tsp fresh ground black pepper" ],
+            "realRecipeLink": "https://www.inspiredtaste.net/26522/coleslaw-recipe/"
         },
         {
             "id": "16",
@@ -142,7 +187,10 @@
             "description": "You'll feel ready to take on the world!",
             "energy": 200, "health": 90,
             "price": 350,
-            "ingredients": [ "Fried Egg (1)", "Milk (1)", "Hasbrowns (1)", "Pancakes (1)" ]
+            "ingredients": [ "Fried Egg (1)", "Milk (1)", "Hasbrowns (1)", "Pancakes (1)" ],
+            "realRecipeImage": "https://stardewkitchen.wordpress.com/wp-content/uploads/2017/12/fullsizeoutput_476.jpeg?w=1088",
+            "realRecipeIngredients": [ "Fried Egg", "Pancakes", "Hashbrowns" ],
+            "realRecipeLink": "https://stardewkitchen.wordpress.com/2018/01/07/1-complete-breakfast/#more-28"
         },
         {
             "id": "17",
@@ -151,7 +199,10 @@
             "description": "Very chewy.",
             "energy": 90, "health": 40,
             "price": 140,
-            "ingredients": [ "Wheat Flour (1)", "Sugar (1)", "Egg (1)" ]
+            "ingredients": [ "Wheat Flour (1)", "Sugar (1)", "Egg (1)" ],
+            "realRecipeImage": "https://geeksandgouda.com/wp-content/uploads/2020/09/moms-cookies-stardew-valley-featured-image.jpg?w=1400",
+            "realRecipeIngredients": [ "Zest and juice of 1 navel orange", "½ cup all-purpose flour", "¼ cup whole wheat flour", "1 tsp cinnamon", "½ tsp kosher salt", "½ tsp baking soda", "½ cup unsalted butter, room temperature", "⅔ cup light brown sugar", "⅓ cup white sugar", "..." ],
+            "realRecipeLink": "https://geeksandgouda.com/2020/09/27/moms-cookies-from-stardew-valley/"
         },
         {
             "id": "18",
@@ -160,7 +211,10 @@
             "description": "Crab, bread crumbs, and egg formed into patties then fried to a golden brown.",
             "energy": 225, "health": 101,
             "price": 275,
-            "ingredients": [ "Crab (1)", "Wheat Flour (1)", "Egg (1)", "Oil (1)" ]
+            "ingredients": [ "Crab (1)", "Wheat Flour (1)", "Egg (1)", "Oil (1)" ],
+            "realRecipeImage": "https://simmeringstarfruit.com/wp-content/uploads/2024/05/crab-cakes-14.jpg",
+            "realRecipeIngredients": [ "1 cup crab meat", "1 large egg", "2 tsp lemon juice", "2 tsp Dijon mustard", "1 tsp garlic minced", "½ tsp onion powder", "½ tsp paprika ", "2 tbsp mayonnaise", "½ - 1 tsp red pepper flakes", "..." ],
+            "realRecipeLink": "https://simmeringstarfruit.com/2024/05/26/crab-cakes-with-dipping-sauce/"
         },
         {
             "id": "19",
@@ -169,7 +223,10 @@
             "description": "It's sweet enough to mask the bitter fruit.",
             "energy": 125, "health": 56,
             "price": 175,
-            "ingredients": [ "Cranberries (1)", "Apple (1)", "Sugar (1)" ]
+            "ingredients": [ "Cranberries (1)", "Apple (1)", "Sugar (1)" ],
+            "realRecipeImage": "https://pixelatedprovisions.com/wp-content/uploads/2019/11/01_CranberryCandy.jpg",
+            "realRecipeIngredients": [ "3 ounces cranberry juice", "1.5 ounce apple juice", "3 ounces rye whiskey", "10 cranberries", "4 thin slices of apple" ],
+            "realRecipeLink": "https://pixelatedprovisions.com/2019/11/27/stardew-valley-cranberry-candy/"
         },
         {
             "id": "20",
@@ -178,7 +235,10 @@
             "description": "A festive treat.",
             "energy": 125, "health": 56,
             "price": 120,
-            "ingredients": [ "Cranberries (1)", "Sugar (1)" ]
+            "ingredients": [ "Cranberries (1)", "Sugar (1)" ],
+            "realRecipeImage": "https://simmeringstarfruit.com/wp-content/uploads/2023/10/cranberry-sauce-11-a.jpg",
+            "realRecipeIngredients": [ "3 cups of fresh or frozen cranberries", "2 large navel oranges", "¾ cup sugar, maple syrup, or honey" ],
+            "realRecipeLink": "https://simmeringstarfruit.com/2023/12/06/aunty-js-cranberry-sauce/"
         },
         {
             "id": "21",
@@ -187,7 +247,10 @@
             "description": "Wow, the breading is perfect.",
             "energy": 90, "health": 40,
             "price": 150,
-            "ingredients": [ "Largemouth Bass (1)", "Wheat Flour (1)", "Oil (1)" ]
+            "ingredients": [ "Largemouth Bass (1)", "Wheat Flour (1)", "Oil (1)" ],
+            "realRecipeImage": "/assets/images/crispy-bass.png",
+            "realRecipeIngredients": [ "1 x Bass", "3 x Potatoes", "3 x Slices of Bread", "100g Plain Flour", "1 x Egg", "1 Tbsp Yoghurt", "0.25 tsp Chipotle Paste", "4 x Small Tomatoes", "Parsley" ],
+            "realRecipeLink": "https://youtu.be/qRU4UsUNAug?si=tj0rQDg1xZUeUUmc"
         },
         {
             "id": "22",
@@ -196,7 +259,10 @@
             "description": "This'll keep you warm in the cold sea air.",
             "energy": 150, "health": 67,
             "price": 220,
-            "ingredients": [ "Sardine (2)", "Hashbrowns (1)" ]
+            "ingredients": [ "Sardine (2)", "Hashbrowns (1)" ],
+            "realRecipeImage": "http://www.eatgamelive.com/wp-content/uploads/2016/03/blog_dishothesea_done2.jpg",
+            "realRecipeIngredients": [ "salt", "pepper", "3 cloves of garlic, chopped", "2 tbsp of olive oil", "juice from 1 lemon", "cherry tomatoes", "4 sardines, gutted and de-boned", "1 potato, peeled", "4 leaves of kale" ],
+            "realRecipeLink": "http://www.eatgamelive.com/stardew-valley/dish-o-the-sea-sardines-with-hash-browns/"
         },
         {
             "id": "23",
@@ -205,7 +271,10 @@
             "description": "Tangy, cheesy, and wonderful.",
             "energy": 175, "health": 78,
             "price": 200,
-            "ingredients": [ "Eggplant (1)", "Tomato (1)" ]
+            "ingredients": [ "Eggplant (1)", "Tomato (1)" ],
+            "realRecipeImage": "https://pixelatedprovisions.com/wp-content/uploads/2017/04/eggplantParm_01.jpg",
+            "realRecipeIngredients": [ "2 eggplants", "salt", "1 cup all-purpose flour", "1 tsp salt", "1 tsp pepper", "2 tsp garlic powder", "pinch cayenne", "3 eggs", "2 tbsp milk", "..." ],
+            "realRecipeLink": "https://pixelatedprovisions.com/2017/05/03/stardew-valley-eggplant-parmesan/"
         },
         {
             "id": "24",
@@ -214,7 +283,10 @@
             "description": "Butter-soaked snails cooked to perfection.",
             "energy": 225, "health": 101,
             "price": 125,
-            "ingredients": [ "Snail (1)", "Garlic (1)" ]
+            "ingredients": [ "Snail (1)", "Garlic (1)" ],
+            "realRecipeImage": "https://64.media.tumblr.com/17ecd2d2a26750baceb35a6ad7fb8fd1/tumblr_inline_o936y4k3jC1rd2jhp_640.jpg",
+            "realRecipeIngredients": [ "115g can of snails", "1 cup butter", "½ tsp salt", "½ tsp pepper", "1 large clove of garlic", "1 green onion", "1 tsp lemon juice", "Dried parsley or tarragon" ],
+            "realRecipeLink": "https://www.tumblr.com/stardew-valley/146229319607/recipe-escargot"
         },
         {
             "id": "25",
@@ -223,7 +295,10 @@
             "description": "This'll keep you going.",
             "energy": 200, "health": 90,
             "price": 150,
-            "ingredients": [ "Omelet (1)", "Parsnip (1)" ]
+            "ingredients": [ "Omelet (1)", "Parsnip (1)" ],
+            "realRecipeImage": "/assets/images/farmers-lunch.png",
+            "realRecipeIngredients": [ "Omelet", "Parsnip" ],
+            "realRecipeLink": "https://youtu.be/NptnbckZLnI?si=Ywyg0ytG3NcFYcXj"
         },
         {
             "id": "26",
@@ -232,7 +307,10 @@
             "description": "A creamy rice dish served with sauteed fern heads. It's little bland.",
             "energy": 225, "health": 101,
             "price": 350,
-            "ingredients": [ "Oil (1)", "Fiddlehead Fern (1)", "Garlic (1)" ]
+            "ingredients": [ "Oil (1)", "Fiddlehead Fern (1)", "Garlic (1)" ],
+            "realRecipeImage": "https://geeksandgouda.com/wp-content/uploads/2020/05/fiddlehead-risotto-stardew-valley-far-shot.jpg?w=2048",
+            "realRecipeIngredients": [ "⅓ lb fiddlehead ferns", "4 cups warm low-sodium chicken or vegetable broth", "2 tbsp olive oil plus 1 tbsp", "1 small yellow onion", "1 cup Arborio rice", "½ cup dry white wine", "1 lemon, zested and juiced", "1 cup Parmigiano-Reggiano cheese", "1 clove of garlic", "Salt and pepper to taste" ],
+            "realRecipeLink": "https://geeksandgouda.com/2020/05/16/stardew-valley-recipe-fiddlehead-risotto/"
         },
         {
             "id": "27",
@@ -241,7 +319,10 @@
             "description": "It smells a lot like the sea. Tastes better, though.",
             "energy": 225, "health": 101,
             "price": 175,
-            "ingredients": [ "Crayfish (1)", "Mussel (1)", "Periwinkle (1)", "Tomato (1)" ]
+            "ingredients": [ "Crayfish (1)", "Mussel (1)", "Periwinkle (1)", "Tomato (1)" ],
+            "realRecipeImage": "https://www.simplyrecipes.com/thmb/mx-jiA5vHJwtVVjXaerfCBq4DA0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2016__02__dads-fish-stew-horiz-a-1600-8cf962c81e084558a025bf8392e00f32.jpg",
+            "realRecipeIngredients": [ "6 tbsp extra virgin olive oil", "1 medium onion", "3 large cloves garlic", "2/3 cup fresh parsley leaves", "1 1/2 cups fresh chopped tomato", "1 bottle clam juice", "1/2 cup dry white wine", "1 1/2 pounds firm white fish fillets", "Pinch dried oregano", "..." ],
+            "realRecipeLink": "https://www.simplyrecipes.com/recipes/dads_fish_stew/"
         },
         {
             "id": "28",
@@ -250,7 +331,10 @@
             "description": "It smells delicious.",
             "energy": 165, "health": 74,
             "price": 500,
-            "ingredients": [ "Tuna (1)", "Tortilla (1)", "Red Cabbage (1)", "Mayonnaise (1)" ]
+            "ingredients": [ "Tuna (1)", "Tortilla (1)", "Red Cabbage (1)", "Mayonnaise (1)" ],
+            "realRecipeImage": "/assets/images/fish-taco.png",
+            "realRecipeIngredients": [ "8 x Tortilla", "16 x Prawns", "Red Cabbage", "Cucumber", "0.5 x Red Chilli", "4 x Radishes", "Thyme", "0.5 x Lime", "1 x Avocado", "..." ],
+            "realRecipeLink": "https://youtu.be/nMbO9HDIZX8?si=L1kkEu-E0VZJ8kXl"
         },
         {
             "id": "29",
@@ -259,7 +343,10 @@
             "description": "It's so chewy.",
             "energy": 80, "health": 36,
             "price": 150,
-            "ingredients": [ "Squid (1)", "Wheat Flour (1)", "Oil (1)" ]
+            "ingredients": [ "Squid (1)", "Wheat Flour (1)", "Oil (1)" ],
+            "realRecipeImage": "https://gamerspantry.wordpress.com/wp-content/uploads/2021/04/20210108_180141.jpg?w=1024",
+            "realRecipeIngredients": [ "Calamari rings 16 oz", "Flour 1 1/2 cup", "Salt 1/2 tbs", "Old bay 1 tbs", "Cornstarch 1/2 cup", "Neutral oil deep enough to fry in", "Buttermilk, enough for soaking" ],
+            "realRecipeLink": "https://gamerspantry.wordpress.com/2021/05/02/stardew-valley-recipe-9-fried-calamari/"
         },
         {
             "id": "30",
@@ -268,7 +355,10 @@
             "description": "Greasy but flavorful.",
             "energy": 75, "health": 33,
             "price": 120,
-            "ingredients": [ "Eel (1)", "Oil (1)" ]
+            "ingredients": [ "Eel (1)", "Oil (1)" ],
+            "realRecipeImage": "https://www.thespruceeats.com/thmb/kS5LatRq9b4mCP6-CNcYxsZLnbw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fried-imagmore-co-ltd-58593d043df78ce2c304310b.jpg",
+            "realRecipeIngredients": [ "2 1/2 pounds eel", "3 cloves garlic", "1/2 bay leaf per piece of eel", "Dash of fine sea salt, to taste", "Dash of freshly ground black pepper, to taste", "2 tbsp olive oil, plus more for basting", "1 tbsp white wine vinegar", "Salt, to taste", "Pepper, to taste", "..." ],
+            "realRecipeLink": "https://www.thespruceeats.com/grilled-or-fried-eel-recipe-capitone-arrosto-o-fritto-2018732"
         },
         {
             "id": "31",
@@ -277,7 +367,10 @@
             "description": "Sunny-side up.",
             "energy": 50, "health": 22,
             "price": 35,
-            "ingredients": [ "Egg (1)" ]
+            "ingredients": [ "Egg (1)" ],
+            "realRecipeImage": "https://stardewkitchen.wordpress.com/wp-content/uploads/2017/12/fullsizeoutput_476.jpeg?w=1088",
+            "realRecipeIngredients": [ "2 eggs", "Butter for frying", "Salt & pepper to taste", "Sauces to taste" ],
+            "realRecipeLink": "https://stardewkitchen.wordpress.com/2018/01/07/1-complete-breakfast/#more-28"
         },
         {
             "id": "32",
@@ -286,7 +379,10 @@
             "description": "Earthy and aromatic.",
             "energy": 135, "health": 60,
             "price": 200,
-            "ingredients": [ "Common Mushroom (1)", "Morel (1)", "Oil (1)" ]
+            "ingredients": [ "Common Mushroom (1)", "Morel (1)", "Oil (1)" ],
+            "realRecipeImage": "https://stardewkitchen.wordpress.com/wp-content/uploads/2018/01/fullsizerender-3.jpg?w=768&h=708",
+            "realRecipeIngredients": [ "4-5 white closed cup mushrooms", "4-5 oyster mushrooms", "2 cloves garlic", "sprig of rosemary", "4-5 chives", "1 tsp truffle oil", "2 tbsp butter", "pinch of salt", "pinch of pepper", "parmesan cheese" ],
+            "realRecipeLink": "https://stardewkitchen.wordpress.com/2018/01/16/2-fried-mushroom-3-radish-salad-sandwiches/#more-53"
         },
         {
             "id": "33",
@@ -295,7 +391,10 @@
             "description": "A delicious combination of summer fruits.",
             "energy": 263, "health": 118,
             "price": 450,
-            "ingredients": [ "Blueberry (1)", "Melon (1)", "Apricot (1)" ]
+            "ingredients": [ "Blueberry (1)", "Melon (1)", "Apricot (1)" ],
+            "realRecipeImage": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTkxODkxOTQ2MDU4MTYzNjk4/stardew-valley-inspired-recipe-fruit-salad.webp",
+            "realRecipeIngredients": [ "1 cup blueberries", "1 can apricots", "30 cubes watermelon", "1 1/2 tsp lemon juice", "1 tsp mind, crushed" ],
+            "realRecipeLink": "https://delishably.com/fruits/Stardew-Valley-Inspired-Recipe-Fruit-Salad#gid=ci02a9bcb5800225f2&pid=stardew-valley-inspired-recipe-fruit-salad-MTkxODkxOTQ2MDU4MjI5MjM0"
         },
         {
             "id": "34",
@@ -304,7 +403,10 @@
             "description": "A zesty soda known for its soothing effect on the stomach.",
             "energy": 63, "health": 28,
             "price": 200,
-            "ingredients": [ "Ginger (3)", "Sugar (1)" ]
+            "ingredients": [ "Ginger (3)", "Sugar (1)" ],
+            "realRecipeImage": "https://www.simplyrecipes.com/thmb/HJib1-ZU7Z45JBiB0ism-m-Nqxo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Ginger-Ale-LEAD-4-d7bb96ceb994481ab4072f76c0cc1291.jpg",
+            "realRecipeIngredients": [ "1 cup peeled, finely chopped ginger", "2 cups water", "1 cup sugar", "1 cup water", "Club soda", "Lime juice", "Lime wedges" ],
+            "realRecipeLink": "https://www.simplyrecipes.com/recipes/homemade_ginger_ale/"
         },
         {
             "id": "35",
@@ -313,16 +415,22 @@
             "description": "Sweet an satisfying... The sugar gives it a hint of caramel.",
             "energy": 200, "health": 90,
             "price": 200,
-            "ingredients": [ "Yam (1)", "Sugar (1)" ]
+            "ingredients": [ "Yam (1)", "Sugar (1)" ],
+            "realRecipeImage": "https://iheartrecipes.com/wp-content/uploads/2023/04/Baked-Candied-Yams-3-scaled.jpg",
+            "realRecipeIngredients": [ "5 medium sized yams", "8 tbsp salted butter softned", "1 tsp ground cinnamon", "1/2 tsp ground nutmeg", "1/4 tsp ground clove", "1/4 tsp ground ginger", "1 cup granulated sugar", "1/4 cup brown sugar light or dark", "1 tbsp pure vanilla extract not imitation" ],
+            "realRecipeLink": "https://iheartrecipes.com/baked-candied-yams-soul-food/"
         },
         {
             "id": "36",
-            "name": "Hasbrowns",
+            "name": "Hashbrowns",
             "image": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Hashbrowns.png",
             "description": "Crispy and golden-brown!",
             "energy": 90, "health": 40,
             "price": 120,
-            "ingredients": [ "Potato (1)", "Oil (1)" ]
+            "ingredients": [ "Potato (1)", "Oil (1)" ],
+            "realRecipeImage": "https://pixelatedprovisions.com/wp-content/uploads/2016/08/hashbrown_01-1.png",
+            "realRecipeIngredients": [ "1 large potato, peeled and shredded", "olive oil", "salt", "pepper" ],
+            "realRecipeLink": "https://pixelatedprovisions.com/2016/08/09/stardew-valley-hash-browns/"
         },
         {
             "id": "37",
@@ -331,7 +439,10 @@
             "description": "It's hard to find someone who doesn't like this.",
             "energy": 100, "health": 45,
             "price": 120,
-            "ingredients": [ "Milk (1)", "Sugar (1)" ]
+            "ingredients": [ "Milk (1)", "Sugar (1)" ],
+            "realRecipeImage": "https://geeksandgouda.com/wp-content/uploads/2019/08/stardew-valley-traditional-strawberry-ice-cream-close-up.jpg",
+            "realRecipeIngredients": [ "4 egg yolks", "⅔ cup sugar", "2 cups whole milk", "1 cup heavy cream", "1 lb strawberries, hulled and chopped", "Pinch of salt, to taste" ],
+            "realRecipeLink": "https://geeksandgouda.com/2019/08/31/stardew-valley-recipes-traditional-strawberry-ice-cream/"
         },
         {
             "id": "38",
@@ -340,7 +451,10 @@
             "description": "This delicate soup is a secret family recipe of Willy's.",
             "energy": 225, "health": 101,
             "price": 205,
-            "ingredients": [ "Lobster (1)", "Milk (1)" ]
+            "ingredients": [ "Lobster (1)", "Milk (1)" ],
+            "realRecipeImage": "https://cafedelites.com/wp-content/uploads/2020/02/Lobster-Bisque-IMAGE-1jpg.jpg",
+            "realRecipeIngredients": [ "4 lobster tails", "2 tbsp butter", "1 tbsp olive oil", "1 onion finely chopped", "2 carrots peeled and finely chopped", "2 stalks celery finely chopped", "1 tsp fresh thyme chopped", "1 tsp fresh tarragon chopped", "1 tsp chicken bouillon powder", "..." ],
+            "realRecipeLink": "https://cafedelites.com/lobster-bisque/"
         },
         {
             "id": "39",
@@ -349,7 +463,10 @@
             "description": "A special little meal.",
             "energy": 100, "health": 45,
             "price": 250,
-            "ingredients": [ "Sea Cucumber (1)", "Tortilla (1)", "Blue Jazz (1)" ]
+            "ingredients": [ "Sea Cucumber (1)", "Tortilla (1)", "Blue Jazz (1)" ],
+            "realRecipeImage": "https://gamerspantry.wordpress.com/wp-content/uploads/2021/11/20211107_184045.jpg?w=1024",
+            "realRecipeIngredients": [ "2 Large Cucumbers, peeled and sliced", "3/4 cup of Plain Greek Yogurt", "3/4 cup of Creme Fraiche / Table Cream", "1 tbs dried borage flowers", "3 tbs lime juice", "1/3 cup loosely packed fresh mint leaves", "1/4 cup loosely packed fresh dill", "1 tsp wasabi paste", "1 tsp minced garlic", "..." ],
+            "realRecipeLink": "https://gamerspantry.wordpress.com/2021/12/02/stardew-valley-recipe-11-lucky-lunch/"
         },
         {
             "id": "40",
@@ -358,7 +475,10 @@
             "description": "Fish and rice wrapped in seaweed.",
             "energy": 100, "health": 45,
             "price": 220,
-            "ingredients": [ "Any Fish (1)", "Seaweed (1)", "Rice (1)" ]
+            "ingredients": [ "Any Fish (1)", "Seaweed (1)", "Rice (1)" ],
+            "realRecipeImage": "https://simmeringstarfruit.com/wp-content/uploads/2023/09/stardew-maki-roll-11-a.jpg",
+            "realRecipeIngredients": [ "2 cups short grain sushi rice", "1 fillet of salmon", "4-6 sheets of nori seaweed", "1 avocado cut into slivers", "1 cucumber, sliced into thin sticks", "1 tbsp Kewpie mayo", "1-2 tsp Sriracha", "pickled ginger", "salad greens", "soy sauce" ],
+            "realRecipeLink": "https://simmeringstarfruit.com/2024/04/08/mums-homemade-maki-rolls/"
         },
         {
             "id": "41",
@@ -367,7 +487,10 @@
             "description": "Sweet mango and coconut transforms this rice into something very special.",
             "energy": 113, "health": 50,
             "price": 250,
-            "ingredients": [ "Mango (1)", "Coconut (1)", "Rice (1)" ]
+            "ingredients": [ "Mango (1)", "Coconut (1)", "Rice (1)" ],
+            "realRecipeImage": "https://pixelatedprovisions.com/wp-content/uploads/2022/02/mangoRice_01.jpg",
+            "realRecipeIngredients": [ "2 cups Thai sweet rice", "15 oz can of coconut milk", "1 vanilla bean, split in half", "1 cinnamon stick", "2 tsp salt, divided", "⅔ cup coconut sugar", "1 tsp cornstarch", "1 tbsp water", "2 mangoes, peeled and sliced", "white sesame seeds" ],
+            "realRecipeLink": "https://pixelatedprovisions.com/2022/02/09/stardew-valley-mango-sticky-rice/"
         },
         {
             "id": "42",
@@ -376,7 +499,10 @@
             "description": "It's a sweet doughnut topped with a rich maple gaze.",
             "energy": 225, "health": 101,
             "price": 300,
-            "ingredients": [ "Maple Syrup (1)", "Sugar (1)", "Wheat Flour (1)" ]
+            "ingredients": [ "Maple Syrup (1)", "Sugar (1)", "Wheat Flour (1)" ],
+            "realRecipeImage": "https://i0.wp.com/www.innatthecrossroads.com/wp-content/uploads/2019/10/Maple-Bars.png?resize=768%2C510&ssl=1",
+            "realRecipeIngredients": [ "1 1⁄2 cups milk, warmed", "1/4 cup butter, melted", "2 Tbs. brown sugar", "2 Tbs. white sugar", "1 tsp. salt", "1 tsp. cinnamon", "2 tsp. yeast", "2 eggs, beaten", "4 1/2 cups flour", "..." ],
+            "realRecipeLink": "https://www.innatthecrossroads.com/stardew-valley-maple-bar/"
         },
         {
             "id": "43",
@@ -385,7 +511,10 @@
             "description": "This should keep your energy up.",
             "energy": 125, "health": 56,
             "price": 200,
-            "ingredients": [ "Cave Carrot (2)", "Sugar (1)", "Milk (1)" ]
+            "ingredients": [ "Cave Carrot (2)", "Sugar (1)", "Milk (1)" ],
+            "realRecipeImage": "https://64.media.tumblr.com/232f4fa5d101830054de08afcfa27af0/tumblr_inline_os0luyfzng1rd2jhp_640.jpg",
+            "realRecipeIngredients": [ "2 cups white sugar", "1/2 cup corn syrup", "1/2 cup carrot juice or water", "1/4 tsp cream of tartar", "Food colouring", "Flavouring-vanilla, mint, lemon, etc", "Margarine or butter", "Lollipop sticks" ],
+            "realRecipeLink": "https://www.tumblr.com/teddiesays/162392997751/recipe-miners-treat"
         },
         {
             "id": "44",
@@ -394,7 +523,10 @@
             "description": "It's thick and slimy, but edible.",
             "energy": 70, "health": 31,
             "price": 80,
-            "ingredients": [ "Moss (20)" ]
+            "ingredients": [ "Moss (20)" ],
+            "realRecipeImage": "https://farm8.staticflickr.com/7023/6810664671_570f947003.jpg",
+            "realRecipeIngredients": [ "4 bean curd sticks", "1/2 cup of pearl barley", "15 water chestnuts", "8 shiitake mushrooms", "1 small handful of black moss (fat choy)", "1.5 lb of lean pork", "2 slices of ginger", "12 cups of water", "pinch of salt" ],
+            "realRecipeLink": "https://www.chinesesouppot.com/1-soup-recipes/1839-tofu-skin-water-chestnut-soup-with-mushroom-black-moss-fat-choy"
         },
         {
             "id": "45",
@@ -403,7 +535,10 @@
             "description": "It's super fluffy.",
             "energy": 100, "health": 45,
             "price": 125,
-            "ingredients": [ "Egg (1)", "Milk (1)" ]
+            "ingredients": [ "Egg (1)", "Milk (1)" ],
+            "realRecipeImage": "https://gamerspantry.wordpress.com/wp-content/uploads/2020/09/20200910_012918.jpg?w=1024",
+            "realRecipeIngredients": [ "2 large eggs", "2 Tbs of milk", "salt and pepper to taste", "1 Tbs of butter in the pan" ],
+            "realRecipeLink": "https://gamerspantry.wordpress.com/2020/09/22/stardew-valley-omelets/"
         },
         {
             "id": "46",
@@ -412,7 +547,10 @@
             "description": "A delicate broth with a hint of sulfur.",
             "energy": 125, "health": 56,
             "price": 150,
-            "ingredients": [ "White Algae (2)" ]
+            "ingredients": [ "White Algae (2)" ],
+            "realRecipeImage": "https://geeksandgouda.com/wp-content/uploads/2023/02/pale-broth-close-up-i-1.jpg?w=1024",
+            "realRecipeIngredients": [ "1 cup kombu dashi", "1 tbsp white miso", "3 ounces silken tofu", "White end of 1 scallion" ],
+            "realRecipeLink": "https://geeksandgouda.com/2023/02/17/algae-soup-and-pale-broth-from-stardew-valley/"
         },
         {
             "id": "47",
@@ -421,7 +559,10 @@
             "description": "A double stack of fluffy, soft pancakes.",
             "energy": 90, "health": 40,
             "price": 80,
-            "ingredients": [ "Wheat Flour (1)", "Egg (1)" ]
+            "ingredients": [ "Wheat Flour (1)", "Egg (1)" ],
+            "realRecipeImage": "https://stardewkitchen.wordpress.com/wp-content/uploads/2017/12/fullsizeoutput_476.jpeg?w=1088",
+            "realRecipeIngredients": [ "3/4 cup all-purpose flour", "2/3 cup milk", "1 egg", "1tsp baking powder", "1tsp granulated sugar", "1 tbsp butter, plus more for frying", "pinch of salt", "pinch of white pepper" ],
+            "realRecipeLink": "https://stardewkitchen.wordpress.com/2018/01/07/1-complete-breakfast/#more-28"
         },
         {
             "id": "48",
@@ -430,7 +571,10 @@
             "description": "It's fresh and hearty.",
             "energy": 85, "health": 38,
             "price": 120,
-            "ingredients": [ "Parsnip (1)", "Milk (1)", "Vinegar (1)" ]
+            "ingredients": [ "Parsnip (1)", "Milk (1)", "Vinegar (1)" ],
+            "realRecipeImage": "https://stardewkitchen.wordpress.com/wp-content/uploads/2018/01/fullsizeoutput_491.jpeg?w=1088",
+            "realRecipeIngredients": [ "3 parsnips", "3-4 cloves garlic", "1 small onion", "1 stick celery", "2 tbsp cider vinegar", "1 cup milk", "1 1/2 cups water", "Olive oil for frying", "1 vegetable stock cube/1 tbsp vegetable bouillon powder", "..." ],
+            "realRecipeLink": "https://stardewkitchen.wordpress.com/2018/01/18/4-parsnip-soup/#more-63"
         },
         {
             "id": "49",
@@ -439,7 +583,10 @@
             "description": "Spicy breaded peppers filled with cheese.",
             "energy": 130, "health": 58,
             "price": 200,
-            "ingredients": [ "Hot Pepper (1)", "Cheese (1)" ]
+            "ingredients": [ "Hot Pepper (1)", "Cheese (1)" ],
+            "realRecipeImage": "https://i0.wp.com/wonderlandrecipes.com/wp-content/uploads/2022/10/stardew-valley-pepper-poppers-ap-9162-scaled.jpg?fit=3840%2C1665",
+            "realRecipeIngredients": [ "8 oz cream cheese", "1/2 cup shredded sharp Cheddar cheese", "1/4 cup finely chopped pepperoni", "2 tsp snipped fresh chives", "6 jalapeño peppers", "6 red mini sweet peppers", "2 cups flour", "1 tsp salt", "1/4 tsp pepper", "11 oz cold beer" ],
+            "realRecipeLink": "https://wonderlandrecipes.com/2022/11/03/pepper-poppers-stardew-valley/"
         },
         {
             "id": "50",
@@ -448,7 +595,10 @@
             "description": "There's little heart candies on top.",
             "energy": 250, "health": 112,
             "price": 480,
-            "ingredients": [ "Melon (1)", "Wheat Flour (1)", "Sugar (1)", "Egg (1)" ]
+            "ingredients": [ "Melon (1)", "Wheat Flour (1)", "Sugar (1)", "Egg (1)" ],
+            "realRecipeImage": "https://i0.wp.com/oneandahalfslices.com/wp-content/uploads/2024/04/pinkcake2.jpg?resize=1024%2C1536&ssl=1",
+            "realRecipeIngredients": [ "170g cubed seedless watermelon", "65 g granulated sugar", "Kosher salt", "170g fresh strawberries", "2 tsp grated fresh lemon zest", "2 tbsp cornstarch", "2 tbsp water", "1 1/2 tbsp fresh lemon juice", "1 1/4 unsalted butter, at room temperature", "..." ],
+            "realRecipeLink": "https://oneandahalfslices.com/pink-cake/"
         },
         {
             "id": "51",
@@ -457,7 +607,10 @@
             "description": "It's popular for all the right reasons.",
             "energy": 150, "health": 67,
             "price": 300,
-            "ingredients": [ "Wheat Flour (1)", "Tomato (1)", "Cheese (1)" ]
+            "ingredients": [ "Wheat Flour (1)", "Tomato (1)", "Cheese (1)" ],
+            "realRecipeImage": "https://www.simplyrecipes.com/thmb/CWzxvl8dpC_zkjjRqEE6fBCS6DQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Homemade-Pizza-Dough-Lead-Shot-1c-c2b1885d27d4481c9cfe6f6286a64342.jpg",
+            "realRecipeIngredients": [ "1 1/2 cups (355ml) warm water", "1 package (2 1/4 tsp) active dry yeast", "3 3/4 cups(490g) bread flour", "2 tbsp extra virgin oil", "2 tsp kosher salt", "1 tsp sugar", "Optional toppings" ],
+            "realRecipeLink": "https://www.simplyrecipes.com/recipes/homemade_pizza/"
         },
         {
             "id": "52",
@@ -466,7 +619,10 @@
             "description": "A traditional holiday treat.",
             "energy": 175, "health": 78,
             "price": 260,
-            "ingredients": [ "Wild Plum (2)", "Wheat Flour (1)", "Sugar (1)" ]
+            "ingredients": [ "Wild Plum (2)", "Wheat Flour (1)", "Sugar (1)" ],
+            "realRecipeImage": "https://www.allrecipes.com/thmb/xalCGtnbwNWpgKTEcG9HEAJJais=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ALR-24227-christmas-plum-pudding-VAT-4x3-d776d53cd46849f998836a590c212058.jpg",
+            "realRecipeIngredients": [ "4 plums", "2 1/2 cups fresh bread crumbs", "1 cup whole wheat flour", "4 ounces shredded suet", "3 large eggs", "1 small carrot", "1 apple", "3/8 cup halved candied cherries", "3/8 cup dried currants", "..." ],
+            "realRecipeLink": "https://www.allrecipes.com/recipe/24227/christmas-plum-pudding/"
         },
         {
             "id": "53",
@@ -475,7 +631,10 @@
             "description": "A traditional food with a delicate, sweet flavor when eaten fresh.",
             "energy": 75, "health": 33,
             "price": 400,
-            "ingredients": [ "Taro Root (4)" ]
+            "ingredients": [ "Taro Root (4)" ],
+            "realRecipeImage": "https://www.tasteofhome.com/wp-content/uploads/2022/05/Poi3-poi-Sarah-Jinee-Park-for-taste-of-Home-JVedit.jpg?fit=300,300&webp=1",
+            "realRecipeIngredients": [ "1 pound taro root", "1/2 cup water" ],
+            "realRecipeLink": "https://www.tasteofhome.com/article/what-is-poi/?srsltid=AfmBOop3zDRN2veENXBQbOkV3mpSXGSqy3sqh3esAXRcCAcojZ8wG2st"
         },
         {
             "id": "54",
@@ -484,7 +643,10 @@
             "description": "It has a soothing effect.",
             "energy": 150, "health": 67,
             "price": 250,
-            "ingredients": [ "Poppy (1)", "Wheat Flour (1)", "Sugar (1)" ]
+            "ingredients": [ "Poppy (1)", "Wheat Flour (1)", "Sugar (1)" ],
+            "realRecipeImage": "https://pixelatedprovisions.com/wp-content/uploads/2016/07/poppyseedmuffin_01-1.png",
+            "realRecipeIngredients": [ "2 cups all-purpose flour", "3/4 cups sugar", "3 tbsp poppy seeds", "2 tsp baking powder", "1 tsp baking soda", "1 tsp salt", "1/4 cup honey", "2 eggs", "1 cup milk", "..." ],
+            "realRecipeLink": "https://pixelatedprovisions.com/2016/07/19/stardew-poppy-seed-muffin/"
         },
         {
             "id": "55",
@@ -493,7 +655,10 @@
             "description": "Silky pumpkin cream in a flaky crust.",
             "energy": 225, "health": 101,
             "price": 385,
-            "ingredients": [ "Pumpkin (1)", "Wheat Flour (1)", "Milk (1)", "Sugar (1)" ]
+            "ingredients": [ "Pumpkin (1)", "Wheat Flour (1)", "Milk (1)", "Sugar (1)" ],
+            "realRecipeImage": "https://geeksandgouda.com/wp-content/uploads/2019/11/stardew-valley-pumpkin-pie-far-shot.jpg",
+            "realRecipeIngredients": [ "1 ⅓ cups all-purpose flour", "1/2 tsp white granulated sugar", "Pinch of salt", "8 tbsp of cold unsalted butter", "1 large egg yolk", "2-3 tbsp cold water as necessary", "1 15 ounce can plain pumpkin puree", "1 ¼ cups heavy cream", "3 large eggs", "..." ],
+            "realRecipeLink": "https://geeksandgouda.com/2019/11/21/stardew-valley-recipe-pumpkin-pie/"
         },
         {
             "id": "56",
@@ -502,7 +667,10 @@
             "description": "A seasonal favorite.",
             "energy": 200, "health": 90,
             "price": 300,
-            "ingredients": [ "Pumpkin (1)", "Milk (1)" ]
+            "ingredients": [ "Pumpkin (1)", "Milk (1)" ],
+            "realRecipeImage": "https://www.recipetineats.com/tachyon/2017/10/Pumpkin-Soup-2.jpg?resize=900%2C1260&zoom=0.72",
+            "realRecipeIngredients": [ "1.2kg/2.4 lb pumpkin", "1 onion", "2 garlic cloves", "3 cups vegetable or chicken broth/stock", "1 cup water", "Salt and pepper", "1/2 - 3/4 cup cream" ],
+            "realRecipeLink": "https://www.recipetineats.com/classic-pumpkin-soup/"
         },
         {
             "id": "57",
@@ -511,7 +679,10 @@
             "description": "The radishes are so crisp!",
             "energy": 200, "health": 90,
             "price": 300,
-            "ingredients": [ "Oil (1)", "Vinegar (1)", "Radish (1)" ]
+            "ingredients": [ "Oil (1)", "Vinegar (1)", "Radish (1)" ],
+            "realRecipeImage": "https://pixelatedprovisions.com/wp-content/uploads/2018/06/radishSalad_01.jpg",
+            "realRecipeIngredients": [ "2 cucumber", "9 radish, thinly sliced", "1 shallot", "¼ cup cilantro, thinly sliced", "¼ cup rice vinegar", "1 tbsp olive oil", "3 tbsp sugar", "½ lemon, juiced", "2 tsp salt", "2 tsp black sesame seeds" ],
+            "realRecipeLink": "https://pixelatedprovisions.com/2018/06/26/stardew-valley-radish-salad/"
         },
         {
             "id": "58",
@@ -520,7 +691,10 @@
             "description": "Full of antioxidants.",
             "energy": 240, "health": 108,
             "price": 400,
-            "ingredients": [ "Red Cabbage (1)", "Radish (1)" ]
+            "ingredients": [ "Red Cabbage (1)", "Radish (1)" ],
+            "realRecipeImage": "http://www.eatgamelive.com/wp-content/uploads/2016/03/blog_redplate_done.png",
+            "realRecipeIngredients": [ "salt", "pepper", "fresh thyme", "1 tbsp of olive oil", "3 cloves of garlic", "radishes", "1/2 red cabbage", "1/2 red onion" ],
+            "realRecipeLink": "http://www.eatgamelive.com/stardew-valley/red-plate-roasted-radishes-and-cabbage/"
         },
         {
             "id": "59",
@@ -529,7 +703,10 @@
             "description": "Mmm, tangy and sweet!",
             "energy": 215, "health": 96,
             "price": 400,
-            "ingredients": [ "Rhubarb (1)", "Wheat Flour (1)", "Sugar (1)" ]
+            "ingredients": [ "Rhubarb (1)", "Wheat Flour (1)", "Sugar (1)" ],
+            "realRecipeImage": "https://geeksandgouda.com/wp-content/uploads/2019/08/dsc_0087.jpg",
+            "realRecipeIngredients": [ "2 2/3 cup all purpose flour", "Pinch of salt", "1 tsp sugar", "14 tbsp cold unsalted butter, cubed", "2 egg yolks", "4-6 tbsp cold water", "1 1/3 lb fresh rhubarb", "1 1/3 cup white sugar", "6 tbsp all purpose flour", "1 1/2 tsp ground ginger" ],
+            "realRecipeLink": "https://geeksandgouda.com/2019/08/12/stardew-valley-recipe-rhubarb-pie/"
         },
         {
             "id": "60",
@@ -538,7 +715,10 @@
             "description": "It's creamy, sweet, and fun to eat.",
             "energy": 115, "health": 51,
             "price": 260,
-            "ingredients": [ "Milk (1)", "Sugar (1)", "Rice (1)" ]
+            "ingredients": [ "Milk (1)", "Sugar (1)", "Rice (1)" ],
+            "realRecipeImage": "https://pixelatedprovisions.com/wp-content/uploads/2018/08/ricePudding_01.jpg",
+            "realRecipeIngredients": [ "½ cup white rice", "2 cups whole milk", "1 tsp salt", "3 tbsp sugar", "1 cinnamon stick", "½ vanilla bean, split in half and scrapped", "1 strip of orange peel", "2 strips of lime peel", "1 tbsp butter", "1 tbsp honey" ],
+            "realRecipeLink": "https://pixelatedprovisions.com/2018/08/07/stardew-valley-rice-pudding/"
         },
         {
             "id": "61",
@@ -547,7 +727,10 @@
             "description": "The roasting process creates a rich forest flavor.",
             "energy": 175, "health": 78,
             "price": 270,
-            "ingredients": [ "Hazelnut (3)" ]
+            "ingredients": [ "Hazelnut (3)" ],
+            "realRecipeImage": "https://simmeringstarfruit.com/wp-content/uploads/2023/08/roasted-hazelnuts-18-a.jpg",
+            "realRecipeIngredients": [ "raw hazelnuts" ],
+            "realRecipeLink": "https://simmeringstarfruit.com/2023/09/01/roasted-hazelnuts/"
         },
         {
             "id": "62",
@@ -556,7 +739,10 @@
             "description": "This'll get you digging for more.",
             "energy": 125, "health": 56,
             "price": 100,
-            "ingredients": [ "Cave Carrot (1)", "Winter Root (1)" ]
+            "ingredients": [ "Cave Carrot (1)", "Winter Root (1)" ],
+            "realRecipeImage": "https://www.passmesometasty.com/wp-content/uploads/2020/12/Easy-Honey-Glazed-Roasted-Root-Vegetables-16.jpg",
+            "realRecipeIngredients": [ "1/4 cup honey", "1/4 cup extra virgin olive oil", "salt and pepper to taste", "1 pound multicolored carrots", "1 pound parsnips", "1 pound golden beets", "1 tbsp fresh thyme", "1 tbsp fresh rosemary", "1 tbsp apple cider vinegar" ],
+            "realRecipeLink": "https://www.passmesometasty.com/roasted-root-vegetables/"
         },
         {
             "id": "63",
@@ -565,7 +751,10 @@
             "description": "A healthy garden salad.",
             "energy": 113, "health": 50,
             "price": 110,
-            "ingredients": [ "Leek (1)", "Dandelion (1)", "Vinegar (1)" ]
+            "ingredients": [ "Leek (1)", "Dandelion (1)", "Vinegar (1)" ],
+            "realRecipeImage": "https://gamerspantry.wordpress.com/wp-content/uploads/2020/11/20201102_231726.jpg?w=1024",
+            "realRecipeIngredients": [ "1 cup of strawberries fresh or frozen", "2 tbs good quality oil", "1 tbs of real maple syrup", "A pinch of salt", "About 3-6 grinds of black pepper", "2 tbs apple cider vinegar", "Goat cheese crumbles", "A handful of pecan pieces", "A handful of fresh pomegranate arils", "Assorted, dark leafy greens" ],
+            "realRecipeLink": "https://gamerspantry.wordpress.com/2020/11/11/stardew-valley-recipe-3-salad/"
         },
         {
             "id": "64",
@@ -574,7 +763,10 @@
             "description": "The lemon spritz makes it special.",
             "energy": 125, "health": 56,
             "price": 300,
-            "ingredients": [ "Salmon (1)", "Amaranth (1)", "Kale (1)" ]
+            "ingredients": [ "Salmon (1)", "Amaranth (1)", "Kale (1)" ],
+            "realRecipeImage": "https://stardewkitchen.wordpress.com/wp-content/uploads/2018/03/img_5114.jpg?w=1088",
+            "realRecipeIngredients": [ "2 salmon fillets", "2 tbsp butter, room temperature", "4 sprigs tarragon", "2 cloves garlic", "1/4 cup flour", "zest of 1 lemon", "1 tsp dried parsley", "salt and black pepper", "couple of tbsp vegetable oil", "..." ],
+            "realRecipeLink": "https://stardewkitchen.wordpress.com/2018/03/04/7-salmon-dinner/#more-102"
         },
         {
             "id": "65",
@@ -583,7 +775,10 @@
             "description": "Raw fish sliced into thin pieces.",
             "energy": 75, "health": 33,
             "price": 75,
-            "ingredients": [ "Any Fish (1)" ]
+            "ingredients": [ "Any Fish (1)" ],
+            "realRecipeImage": "https://cookwithdana.com/wp-content/uploads/2022/06/IMG_8927-180x180.jpg",
+            "realRecipeIngredients": [ "1 pound salmon", "1 tsp salt" ],
+            "realRecipeLink": "https://cookwithdana.com/how-to-make-salmon-sashimi/"
         },
         {
             "id": "66",
@@ -592,7 +787,10 @@
             "description": "This briny pudding will really get you into the maritime mindset!",
             "energy": 175, "health": 78,
             "price": 300,
-            "ingredients": [ "Flounder (1)", "Midnight Carp (1)", "Squid Ink (1)" ]
+            "ingredients": [ "Flounder (1)", "Midnight Carp (1)", "Squid Ink (1)" ],
+            "realRecipeImage": "https://helios-i.mashable.com/imagery/articles/02pgwx8Wyq4Oc2JIZBShX4U/images-5.fill.size_2000x2701.v1715079943.jpg",
+            "realRecipeIngredients": [ "1 (4-inch) piece fresh ginger", "2 garlic cloves", "3 tbsp soy sauce", "1 tbsp toasted sesame oil", "1 tsp ground white pepper", "12 ounces flounder fillets", "12 ounces carp (or cod) fillets", "1 cup jasmine rice", "2 quarts good-quality fish stock", "..." ],
+            "realRecipeLink": "https://mashable.com/article/stardew-valley-cookbook-recipe"
         },
         {
             "id": "67",
@@ -601,7 +799,10 @@
             "description": "A sumptuous appetizer made with freshly-caught shrimp.",
             "energy": 225, "health": 101,
             "price": 160,
-            "ingredients": [ "Tomato (1)", "Shrimp (1)", "Wild Horseradish (1)" ]
+            "ingredients": [ "Tomato (1)", "Shrimp (1)", "Wild Horseradish (1)" ],
+            "realRecipeImage": "https://cookthestory.com/wp-content/uploads/2017/12/Sriracha-Balsamic-Cocktail-Sauce-DSC_0931-landscape-bright-660.jpg",
+            "realRecipeIngredients": [ "24 large shrimp", "1/2 tsp salt", "1 cup ketchup", "2 Tbsp horseradish", "Pinch of salt" ],
+            "realRecipeLink": "https://cookthestory.com/how-to-make-shrimp-cocktail/"
         },
         {
             "id": "68",
@@ -610,7 +811,10 @@
             "description": "An old favorite.",
             "energy": 75, "health": 3,
             "price": 120,
-            "ingredients": [ "Wheat Flour (1)", "Tomato (1)" ]
+            "ingredients": [ "Wheat Flour (1)", "Tomato (1)" ],
+            "realRecipeImage": "https://www.allrecipes.com/thmb/Sy-p8IQD1rsdH80PYSlrCVEO2vk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/158140-Spaghetti-sauce-with-ground-beef-DDMFS-4x3-ce598bcb0b304eed966c81f95e24d57b.jpg",
+            "realRecipeIngredients": [ "1 medium onion, chopped", "4 cloves garlic, minced", "1 small green bell pepper, diced", "1 (28 ounce) can diced tomatoes", "1 (16 ounce) can tomato sauce", "1 (6 ounce) can tomato paste", "2 tsp dried oregano", "2 tsp dried basil", "1 tsp salt", "1/2 tsp ground black pepper" ],
+            "realRecipeLink": "https://www.allrecipes.com/recipe/158140/spaghetti-sauce-with-ground-beef/"
         },
         {
             "id": "69",
@@ -619,7 +823,10 @@
             "description": "It's really spicy! Be careful.",
             "energy": 115, "health": 51,
             "price": 175,
-            "ingredients": [ "Eel (1)", "Hot Pepper (1)" ]
+            "ingredients": [ "Eel (1)", "Hot Pepper (1)" ],
+            "realRecipeImage": "https://i0.wp.com/wonderlandrecipes.com/wp-content/uploads/2022/11/stardew-valley-spicy-eel-e-9449-scaled.jpg?fit=600%2C900&ssl=1",
+            "realRecipeIngredients": [ "1/2 cup water", "3 Tbsp mild gochujang", "2 Tbsp mild miso", "2 cloves garlic, minced", "1/2 tsp onion powder", "3 4-oz conger eel fillets" ],
+            "realRecipeLink": "https://wonderlandrecipes.com/2022/12/01/spicy-eel-stardew-valley/?srsltid=AfmBOopOUwEHFO3p63eQpqf4hSTEXzbOccdBCdnBlRlXx6Pj_A3MyKBb"
         },
         {
             "id": "70",
@@ -628,7 +835,10 @@
             "description": "Temporarily protects from debuffs.",
             "energy": 125, "health": 56,
             "price": 150,
-            "ingredients": [ "Squid Ink (1)", "Wheat Flour (1)", "Tomato (1)" ]
+            "ingredients": [ "Squid Ink (1)", "Wheat Flour (1)", "Tomato (1)" ],
+            "realRecipeImage": "https://honestcooking.com/wp-content/uploads/2014/11/DSC5015.jpg",
+            "realRecipeIngredients": [ "1 cup of flour", "1 egg yolk" , "1 whole egg", "1/2 tsp milk", "1/2 tsp olive oil", "2 packets squid ink", "pinch of salt"],
+            "realRecipeLink": "https://honestcooking.com/squid-ink-ravioli-roasted-eggplant-filling-pesto/"
         },
         {
             "id": "71",
@@ -637,7 +847,10 @@
             "description": "Julienned vegetables on a bed of rice.",
             "energy": 200, "health": 90,
             "price": 335,
-            "ingredients": [ "Cave Carrot (1)", "Common Mushroom (1)", "Kale (1)", "Oil (1)" ]
+            "ingredients": [ "Cave Carrot (1)", "Common Mushroom (1)", "Kale (1)", "Oil (1)" ],
+            "realRecipeImage": "https://geeksandgouda.com/wp-content/uploads/2018/08/20180629_214050-e1534642685544.jpg?w=1024&h=653",
+            "realRecipeIngredients": [ "1 bunch kale, washed", "3 ½ ounces shiitake mushrooms", "1 cup matchstick or julienned carrots", "1 tbsp vegetable oil", "1 inch piece fresh or frozen ginger", "3-4 cloves of garlic", "7 tbsp low sodium soy sauce", "4 tbsp toasted sesame oil", "1 tbsp corn starch", "3 cups cooked long grain rice of choice, for serving" ],
+            "realRecipeLink": "https://geeksandgouda.com/2018/08/26/stardew-valley-stir-fry/"
         },
         {
             "id": "72",
@@ -646,7 +859,10 @@
             "description": "What's inside?",
             "energy": 100, "health": 45,
             "price": 225,
-            "ingredients": [ "Wheat Flour (1)", "Periwinkle (1)", "Void Mayonnaise" ]
+            "ingredients": [ "Wheat Flour (1)", "Periwinkle (1)", "Void Mayonnaise" ],
+            "realRecipeImage": "https://gamerspantry.wordpress.com/wp-content/uploads/2021/05/image-6.png",
+            "realRecipeIngredients": [ "Four sheets of puff pastry", "1 can of roland brand snails", "1.5 oz of Gruyere shredded", "2 oz of Gouda shredded", "1 tsp rosemary", "1/2 tsp smoked paprika", "1 tsp of thyme", "1/2 tsp of mustard powder", "3 tbs garlic aioli", "..." ],
+            "realRecipeLink": "https://gamerspantry.wordpress.com/2021/05/30/stardew-valley-recipe-10-strange-bun/"
         },
         {
             "id": "73",
@@ -655,7 +871,10 @@
             "description": "Ahh... the smell of warm bread and sage.",
             "energy": 170, "health": 76,
             "price": 165,
-            "ingredients": [ "Bread (1)", "Cranberries (1)", "Hazelnut (1)" ]
+            "ingredients": [ "Bread (1)", "Cranberries (1)", "Hazelnut (1)" ],
+            "realRecipeImage": "https://www.howsweeteats.com/wp-content/uploads/2020/11/best-stuffing-12.jpg",
+            "realRecipeIngredients": [ "18 to 24 ounces bread cubes", "1 cup unsalted butter", "3 cups diced sweet onion", "2 cups diced celery", "6 garlic cloves", "kosher salt and pepper", "3 tbsp chopped fresh sage", "3 tbsp chopped fresh parsley", "3 tbsp chopped fresh rosemary", "..." ],
+            "realRecipeLink": "https://www.howsweeteats.com/2020/11/best-stuffing-recipe/"
         },
         {
             "id": "74",
@@ -664,7 +883,10 @@
             "description": "It's a really energizing meal.",
             "energy": 160, "health": 72,
             "price": 220,
-            "ingredients": [ "Bok Choy (1)", "Cranberries (1)", "Artichoke (1)" ]
+            "ingredients": [ "Bok Choy (1)", "Cranberries (1)", "Artichoke (1)" ],
+            "realRecipeImage": "https://www.level1chef.com/wp-content/uploads/2017/11/stardew-valley-super-meal-recipe.png",
+            "realRecipeIngredients": [ "Wonton Wrappers - 8 to 10 small squares", "Vegetable Oil - 1 cup", "Bock Choy - 3 Heads", "Red Cabbage - 1 cup shredded", "Dried Cranberries - 1/3 cup", "Sliced Almonds - 1/4 cup", "Oranges - 3", "Crushed Red Pepper Flakes - 1 tsp", "Sesame Seeds - to taste", "Chicken Breast" ],
+            "realRecipeLink": "https://www.level1chef.com/stardew-valley-super-meal/"
         },
         {
             "id": "75",
@@ -673,7 +895,10 @@
             "description": "A convenient snack for the explorer.",
             "energy": 125, "health": 56,
             "price": 180,
-            "ingredients": [ "Bread (1)", "Cave Carrot (1)", "Eggplant (1)" ]
+            "ingredients": [ "Bread (1)", "Cave Carrot (1)", "Eggplant (1)" ],
+            "realRecipeImage": "https://thestarvingchefblog.com/wp-content/uploads/2024/04/recipes-from-stardew-burgers-500x500.jpg",
+            "realRecipeIngredients": [ "2 medium eggplants", "4 whole purple carrots", "4 tbsp olive oil", "2 tsp sea salt", "2 tsp cracked peppercorns", "3 spring onions", "1 cup flour", "2 eggs", "1/2 cup gouda goat cheese", "..." ],
+            "realRecipeLink": "https://thestarvingchefblog.com/survival-burgers-recipe-from-stardew-valley/"
         },
         {
             "id": "76",
@@ -682,7 +907,10 @@
             "description": "These flavors are incredible!",
             "energy": 175, "health": 78,
             "price": 250,
-            "ingredients": [ "Coconut (1)", "Shrimp (1)", "Common Mushroom (1)" ]
+            "ingredients": [ "Coconut (1)", "Shrimp (1)", "Common Mushroom (1)" ],
+            "realRecipeImage": "https://64.media.tumblr.com/0770e8eb6585593d75601855fc5b5e69/tumblr_inline_ojs6n3NFWB1rd2jhp_640.jpg",
+            "realRecipeIngredients": [ "2 cans coconut milk", "2 cups chicken broth", "2 chicken breasts", "1 tbsp red pepper flakes", "1 tbsp chili powder", "1 tbsp dried ginger powder", "3 medium tomatoes", "4 medium mushrooms", "2 cups tailless shrimp", "..." ],
+            "realRecipeLink": "https://www.tumblr.com/passthesoysauce/186936775010/recipe-tom-kha-soup"
         },
         {
             "id": "77",
@@ -691,7 +919,10 @@
             "description": "Can be used as a vessel for food or eaten by itself.",
             "energy": 50, "health": 22,
             "price": 50,
-            "ingredients": [ "Corn (1)" ]
+            "ingredients": [ "Corn (1)" ],
+            "realRecipeImage": "https://pixelatedprovisions.com/wp-content/uploads/2021/07/Tortilla_01.jpg",
+            "realRecipeIngredients": [ "2 cups (318 g) all-purpose flour", "½ cup (95 g) corn meal", "1 tsp (4 g) baking powder", "1 tsp (4 g) salt", "1 tsp (4 g) garlic powder", "¼ cup (56 g) unsalted butter, cubed", "¾ cup (157 g) warm water", "1 tbsp (13 g) canola oil" ],
+            "realRecipeLink": "https://pixelatedprovisions.com/2021/07/29/stardew-valley-tortilla/"
         },
         {
             "id": "78",
@@ -700,7 +931,10 @@
             "description": "It's more potent than regular coffee!",
             "energy": 8, "health": 3,
             "price": 450,
-            "ingredients": [ "Coffee (3)" ]
+            "ingredients": [ "Coffee (3)" ],
+            "realRecipeImage": "https://www.sharmispassions.com/wp-content/uploads/2012/07/espresso-coffee-recipe022.jpg",
+            "realRecipeIngredients": [ "Coffee powder", "Water" ],
+            "realRecipeLink": "https://www.sharmispassions.com/espresso-coffee-recipe/"
         },
         {
             "id": "79",
@@ -709,7 +943,10 @@
             "description": "An exotic, fragrant curry served in a pineapple bowl.",
             "energy": 150, "health": 67,
             "price": 500,
-            "ingredients": [ "Coconut (1)", "Pineapple (1)", "Hot Pepper (1)" ]
+            "ingredients": [ "Coconut (1)", "Pineapple (1)", "Hot Pepper (1)" ],
+            "realRecipeImage": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTkxOTE0ODE4MTAwNTM2OTk1/stardew-valley-inspired-recipe-tropical-curry.webp",
+            "realRecipeIngredients": [ "2 tbsp coconut oil", "1 to 4 ounces Maesri red curry paste", "4 cloves garlic, minced", "1 tbsp ginger", "1 medium white onion", "1/2 pound chicken breasts, sliced into small pieces", "1 red bell pepper", "1 (8-ounce) can bamboo shoots, sliced", "1 (8-ounce) can water chesnuts", "..." ],
+            "realRecipeLink": "https://delishably.com/meat-dishes/Stardew-Valley-Inspired-Recipe-Tropical-Curry"
         },
         {
             "id": "80",
@@ -718,7 +955,10 @@
             "description": "Pretty salty.",
             "energy": 100, "health": 45,
             "price": 100,
-            "ingredients": [ "Rainbow Trout (1)", "Green Algae (1)" ]
+            "ingredients": [ "Rainbow Trout (1)", "Green Algae (1)" ],
+            "realRecipeImage": "https://64.media.tumblr.com/d03df6e1ff1961809661531b0bc5f39b/tumblr_inline_omj67z1PqE1rd2jhp_640.jpg",
+            "realRecipeIngredients": [ "1 medium onion", "2 sticks celery", "2 cloves garlic", "1 tbsp chili powder", "2 tbsp olive oil", "1 cup white wine", "796ml can of diced tomatoes", "1/2 butternut squash", "500ml vegetable broth", "..." ],
+            "realRecipeLink": "https://www.tumblr.com/stardewaddiction/158192378046/recipe-trout-soup"
         },
         {
             "id": "81",
@@ -727,7 +967,10 @@
             "description": "This is very nutritious.",
             "energy": 165, "health": 74,
             "price": 120,
-            "ingredients": [ "Tomato (1)", "Beet (1)" ]
+            "ingredients": [ "Tomato (1)", "Beet (1)" ],
+            "realRecipeImage": "https://gamerspantry.wordpress.com/wp-content/uploads/2021/03/image25.jpg?w=1024",
+            "realRecipeIngredients": [ "1 lb of beets", "1 bundle green onions chopped", "1 tbs of olive oil", "3 large tomatoes, chopped", "1 1/2 tsp of cumin", "1/2 tsp of Paprika", "4 cups beef broth", "2 tbsp. tomato paste" ],
+            "realRecipeLink": "https://gamerspantry.wordpress.com/2021/03/14/stardew-valley-recipe-7-vegetable-medley/"
         }
     ]
 }

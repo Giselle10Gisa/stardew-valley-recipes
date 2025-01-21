@@ -7,4 +7,7 @@ export interface Recipe {
     health: number;
     price: number;
     ingredients: string[];
+    realRecipeImage: string;
+    realRecipeIngredients: string[];
+    realRecipeLink: string;
 }

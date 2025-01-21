@@ -16,6 +16,9 @@ interface Recipe {
     health: number;
     price: number;
     ingredients: string[];
+    realRecipeImage: string;
+    realRecipeIngredients: string[];
+    realRecipeLink: string;
 }
 
 export default function Recipe() {
@@ -23,6 +26,7 @@ export default function Recipe() {
     const id = params.id;
     const { loading } = useRecipes()
     const [recipe, setRecipe] = useState<Recipe | null>(null);
+    const [ realRecipe, setRealRecipe ] = useState(false);
     const [loadingPage, setLoadingPage] = useState(true);
     const [error, setError] = useState<string | null>(null);
 
@@ -85,21 +89,25 @@ export default function Recipe() {
                 ) : (
                     <div key={recipe.id} className="flex-grow grid grid-cols-2 px-64 relative bg-book bg-contain bg-center bg-no-repeat bg-fixed shadow-xl">
                         <>
+                            <div onClick={() => setRealRecipe(!realRecipe)} className="absolute bg-amber-700 py-2 pl-3 pr-8 left-[690px] bottom-[100px] rounded-tl-lg rounded-bl-lg cursor-pointer">
+                                <i className="pi pi-arrow-right-arrow-left text-black"></i>
+                            </div>
                             <Link href={"/pages/dashboard"} className="absolute top-0">
                                 <div className="w-10 h-10 p-4">
                                     <i className="pi pi-chevron-circle-left text-3xl text-[#F2E7C4] hover:text-[#2e1b0f]"></i>
                                 </div>
                             </Link>
                             <div className="flex justify-center items-center">
-                                <div className="bg-red-300 h-[400px] w-[250px] rounded-full flex justify-center items-center">
+                                <div className={`${realRecipe ? 'bg-blue-300 h-[280px] w-[350px] rounded-2xl' : 'bg-red-300 h-[400px] w-[250px] rounded-full'} flex justify-center items-center`}>
                                     {loading ? (
                                         <div className="text-black">loading</div>
                                     ) : (
                                         <Image 
-                                            src={recipe.image} 
+                                            src={realRecipe ? recipe.realRecipeImage : recipe.image} 
                                             alt={recipe.name} 
-                                            width={150} 
-                                            height={150}
+                                            width={realRecipe ? 250 : 150} 
+                                            height={realRecipe ? 250 : 150}
+                                            className="rounded-2xl"
                                         />
                                     )}
                                 </div>
@@ -107,46 +115,57 @@ export default function Recipe() {
 
                             <div className="flex flex-col items-center mt-28 gap-8 font-pixelify text-[#853605]">
                                 <p className="text-5xl w-[250px] text-center">{recipe.name}</p>
-                                <p className="">{recipe.description}</p>
-                                <div className="flex flex-row gap-52">
-                                    <div className="gap-3 flex flex-col">
-                                        <p className="underline">Ingredients:</p>
-                                        {recipe.ingredients.map((ingredient) => (
-                                            <ul>
+                                <p className="w-[400px] text-center">{recipe.description}</p>
+                                {realRecipe ? ( 
+                                    <div className="flex flex-col gap-1 w-80">
+                                        {recipe.realRecipeIngredients.map((ingredient, index) => (
+                                            <ul className="list-disc" key={index}>
                                                 <li>{ingredient}</li>
                                             </ul>
                                         ))}
+                                        <Link href={recipe.realRecipeLink} target="_blank" className="underline mt-4">Recipe Link</Link>
                                     </div>
-                                    <div className="flex flex-col gap-3">
-                                        <p className="flex flex-row gap-1">
-                                            <Image
-                                                alt="Energy icon"
-                                                src="/assets/icons/energy.png"
-                                                height={20}
-                                                width={20}
-                                            />
-                                            {recipe.energy}
-                                        </p>
-                                        <p className="flex flex-row gap-1">
-                                            <Image
-                                                alt="Health icon"
-                                                src="/assets/icons/health.png"
-                                                height={20}
-                                                width={20}
-                                            />
-                                            {recipe.health}
-                                        </p>
-                                        <p className="flex flex-row gap-1">
-                                            <Image
-                                                alt="Coin icon"
-                                                src="/assets/icons/gold.png"
-                                                height={20}
-                                                width={20}
-                                            />
-                                            {recipe.price}
-                                        </p>
+                                ) : (
+                                    <div className="flex flex-row gap-40">
+                                        <div className="gap-3 flex flex-col">
+                                            <p className="underline">Ingredients:</p>
+                                            {recipe.ingredients.map((ingredient, index) => (
+                                                <ul className="list-disc" key={index}>
+                                                    <li>{ingredient}</li>
+                                                </ul>
+                                            ))}
+                                        </div>
+                                        <div className="flex flex-col gap-3">
+                                            <p className="flex flex-row gap-1">
+                                                <Image
+                                                    alt="Energy icon"
+                                                    src="/assets/icons/energy.png"
+                                                    height={20}
+                                                    width={20}
+                                                />
+                                                {recipe.energy}
+                                            </p>
+                                            <p className="flex flex-row gap-1">
+                                                <Image
+                                                    alt="Health icon"
+                                                    src="/assets/icons/health.png"
+                                                    height={20}
+                                                    width={20}
+                                                />
+                                                {recipe.health}
+                                            </p>
+                                            <p className="flex flex-row gap-1">
+                                                <Image
+                                                    alt="Coin icon"
+                                                    src="/assets/icons/gold.png"
+                                                    height={20}
+                                                    width={20}
+                                                />
+                                                {recipe.price}
+                                            </p>
+                                        </div>
                                     </div>
-                                </div>
+                                )}
                             </div>
                         </>
                     </div>

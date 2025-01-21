@@ -2,6 +2,7 @@ import { useRecipes } from "@/src/hooks/useRecipes";
 import { Recipe } from "@/src/types/types";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
+import { useState } from "react";
 
 interface CardProps {
     recipe: Recipe
@@ -9,6 +10,7 @@ interface CardProps {
 
 export default function Card ({ recipe }: CardProps) {
     const { loading } = useRecipes();
+    const [ realImage, setRealImage ] = useState(false);
     const router = useRouter();
 
     const handleClick = () => {
@@ -20,14 +22,23 @@ export default function Card ({ recipe }: CardProps) {
     }
 
     return (
-        <div onClick={handleClick} key={recipe.id} className="cursor-pointer bg-[#F2E7C4] dark:bg-[#853605] w-64 h-72 border-[#853605] dark:border-[#F2E7C4] border-8 flex flex-col justify-center items-center gap-4">
-            <div className="bg-[#853605] dark:bg-[#F2E7C4] w-56 h-44 flex justify-center items-center">
+        <div onMouseOver={() => setRealImage(true)} onMouseLeave={() => setRealImage(false)} onClick={handleClick} key={recipe.id} className="cursor-pointer bg-[#F2E7C4] dark:bg-[#853605] w-64 h-72 border-[#853605] dark:border-[#F2E7C4] border-8 flex flex-col justify-center items-center gap-4 relative">
+            <div className={`bg-[#853605] dark:bg-[#F2E7C4] w-56 h-44 flex justify-center items-center ${realImage ? 'opacity-100' : 'opacity-0'} transition-opacity duration-300`}>
+                <Image
+                    alt={recipe.name}
+                    src={recipe.realRecipeImage}
+                    height={150}
+                    width={150}
+                    className="w-56 h-44 object-cover"
+                />
+            </div>
+            <div className={`absolute top-2 flex bg-[#853605] dark:bg-[#F2E7C4] w-56 h-44 justify-center items-center ${realImage ? 'opacity-0' : 'opacity-100'} transition-opacity duration-300`}>
                 <Image
                     alt={recipe.name}
                     src={recipe.image}
                     height={60}
                     width={60}
-                    className="w-[100px] h-[100px]"
+                    className="w-[100px] h-[100px] object-cover"
                 />
             </div>
             <div className="h-16 w-56 flex flex-col gap-5">
