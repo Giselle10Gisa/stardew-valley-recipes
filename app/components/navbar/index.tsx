@@ -29,9 +29,9 @@ export default function Navbar () {
                     className="hover:animate-pendulum"
                 />
             </Link>
-            <div onClick={() => handleClick()} className={`w-16 h-8 rounded-full border-[#853605] border-[3px] bg-[#FFF3CC] flex items-center px-1 cursor-pointer shadow-[inset_0_2px_4px_rgba(0,0,0,0.1)] transition duration-150 ${theme === 'dark' ? 'justify-end' : 'justify-start'}`}>
+            <div data-testid="theme-button" onClick={() => handleClick()} className={`w-16 h-8 rounded-full border-[#853605] border-[3px] bg-[#FFF3CC] flex items-center px-1 cursor-pointer shadow-[inset_0_2px_4px_rgba(0,0,0,0.1)] transition duration-150 ${theme === 'dark' ? 'justify-end' : 'justify-start'}`}>
                 <div className="w-5 h-5 rounded-full bg-[#853605] flex justify-center items-center">
-                    <i className={`pi ${theme === 'dark' ? 'pi-moon' : 'pi-sun'}`} style={{ color: '#FFF3CC' }}></i>
+                    <i data-testid="theme-icon" className={`pi ${theme === 'dark' ? 'pi-moon' : 'pi-sun'}`} style={{ color: '#FFF3CC' }}></i>
                 </div>
             </div>
         </div>
