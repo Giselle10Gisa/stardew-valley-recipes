@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **Stardew Valley Recipes** 🍓
 
-## Getting Started
+## About this application:
+This is a [Next.js](https://nextjs.org) application, focused on the Stardew Valley game recipes.
+Here you will be able to find all the game recipes and how they can be made in real life, so then you can try them yourself!
 
-First, run the development server:
+**- About page:**
+<img width="1498" height="884" alt="about" src="https://github.com/user-attachments/assets/a0909917-1434-4953-aebf-373c268f4017" />
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Pages:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Bellow you will be able to see the pages inside the application:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**- Landing Page:**
+  - The first page you see once accessing the application link
+<img width="1917" height="855" alt="landing" src="https://github.com/user-attachments/assets/da14c165-43cf-4724-8ee1-fb3ad6355714" />
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**- Dashboard:**
+  - Here is where you will find all the recipes, you can search by name and also filter by alphabetic order
+<img width="1901" height="946" alt="dashboard" src="https://github.com/user-attachments/assets/1d49db68-6ff0-470a-a566-6b5f6e30b69f" />
+  - You can also select dark mode :)
+<img width="1912" height="948" alt="dashboard-dark" src="https://github.com/user-attachments/assets/19c4d85c-f38b-4896-85f8-3c46c830a467" />
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**- Recipe Page:**
+  - Once clicking on the recipe card you would like to see more about, you will be redirected to that recipe page
+<img width="1915" height="946" alt="real-recipe" src="https://github.com/user-attachments/assets/3c403cb0-77a3-40a2-9284-562c87e9f5db" />
+  - Clicking on the arrows icon in the middle of the recipe book, you will see a switch to the real recipe
+<img width="1916" height="949" alt="game-recipe" src="https://github.com/user-attachments/assets/a6c90c00-6e85-4775-a9ee-d83227dca1ec" />
